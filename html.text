@@ -1,0 +1,1898 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="89d5ffc4fb2680be9208277ab71df1d2">
+
+<meta http-equiv="X-ZA-Experiment" content="default:None,ge3:ge3_9,ge2:ge2_1,nwebQAGrowth:experiment,is_office:false,nweb_growth_people:default,is_show_unicom_free_entry:unicom_free_entry_off,app_store_rate_dialog:close,android_profile_panel:panel_b,search_advert_position:1,live_store:ls_a2_b2_c1_f2,nweb_search:nweb_search_heifetz,search_hybrid_tabs:pin-3#album-7,new_live_feed_mediacard:new,hybrid_zhmore_video:yes,new_mobile_column_appheader:new_header,search_tab:collapse,rt:y,ad_r:a,growth_search:s2,qaweb_related_readings_content_control:close,android_pass_through_push:all,new_sign_bg:new,new_mobile_app_header:true,np:1,android_search_tab_style:search_tab_style_b,u_re:0,android_db_recommend_action:open,zcm-lighting:zcm,android_db_feed_hash_tag_style:button,mobile_feed_guide:block,qrcode_login:qrcode,is_new_noti_panel:no,nweb_search_suggest:default">
+<title>发现 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://explore">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://www.zhihu.com/explore">
+<meta id="znonce" name="znonce" content="e65b4c1eb8514f149871e0e5c55034a4">
+
+
+
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="https://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="https://static.zhihu.com/static/revved/-/css/z.3e5da9dd.css">
+
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="https://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="https://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="https://static.zhihu.com/static/revved/-/js/instant.35b468b8.js"></script>
+
+</head>
+
+<body class="zhi page-explore">
+
+
+
+
+<div role="navigation" class="zu-top" data-za-module="TopNavBar">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" maxlength="100" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li current" id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content message">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content user" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content thanks" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="zg-wrap zu-main clearfix "  role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+
+
+
+<div id="zh-recommend">
+<div id="zh-recommend-title" class="page-title">
+<i class="zg-icon zg-icon-feedlist"></i>
+<span>编辑推荐</span>
+<a href="/explore/recommendations" class="zg-link-gray zg-right" data-za-c="explore" data-za-a="visit_explore_recommendations" data-za-l="editor_recommendations_more"><span>更多推荐 &raquo;</span></a>
+</div>
+<div id="zh-recommend-list">
+
+
+<div class="top-recommend-feed feed-item">
+<h2><a class="question_link" href="/question/285634806/answer/446855298" target="_blank" data-id="25751581" data-za-element-name="Title">
+飞机发动机喷火的原理是什么？是怎么实现的？
+</a></h2>
+<div class="avatar">
+<a title="卢西"
+data-hovercard="p$t$luxiair"
+class="zm-item-link-avatar"
+target="_blank"
+href="/people/luxiair">
+<img src="https://pic1.zhimg.com/v2-66437ed6371893af847d572b0c5eca43_m.jpg" class="zm-item-img-avatar">
+</a>
+</div>
+
+<div class="feed-main">
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$luxiair"
+target="_blank" href="/people/luxiair"
+>卢西</a></span><span title="航空航天/欧洲中世纪史/古生物" class="bio">
+航空航天/欧洲中世纪史/古生物
+</span>
+</span>
+</div>
+<div class="zm-item-rich-text" data-resourceid="25751581" data-action="/answer/content">
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/50/v2-fa097e7de71198f5be2bf6a22bd3cc74_200x112.jpg" data-caption="" data-size="normal" data-rawwidth="564" data-rawheight="348" data-watermark="watermark" data-original-src="v2-fa097e7de71198f5be2bf6a22bd3cc74" data-watermark-src="v2-9f23a3304a74fb0adb837aa5b8a47818" data-private-watermark-src="v2-730f4d051e4bad2e72c63b2430428656" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/50/v2-fa097e7de71198f5be2bf6a22bd3cc74_r.jpg">
+写飞机发动机喷三种不同的火吧 飞机放油，又把放出去的油点燃 上面两张图是客机在进行紧急放油，为什么飞机需要在空中放油，我在下面的回答解释了：<a href="https://www.zhihu.com/question/66733625/answer/245313513" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-958400f4967cd5311d3b8f69d891b969_180x120.jpg" data-image-width="1900" data-image-height="1184" class="internal">为什么波音 757 没有应急自动放油系统？</a>其中节选两句：飞机降落重量远低于起飞重量。拿A380举个例子，最大…
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="recommend-feed feed-item">
+
+<span class="zg-right zg-gray-normal feed-meta" >也谈身心</span>
+
+<h2><a class="post-link" target="_blank" href="https://zhuanlan.zhihu.com/p/39928572" data-za-element-name="Title">拉倒吧，你在家做的那个脱毛也能叫激光脱毛？</a></h2>
+</div>
+
+
+
+<div class="recommend-feed feed-item">
+<span class="zg-right zg-gray-normal feed-meta" >问答</span>
+<h2><a class="question_link" href="/question/281729796/answer/445948281" target="_blank" data-id="24882935" data-za-element-name="Title">
+为什么那么多人对世界杯如此热爱？
+</a></h2>
+</div>
+
+
+
+<div class="recommend-feed feed-item">
+
+<span class="zg-right zg-gray-normal feed-meta" >懒熊体育</span>
+
+<h2><a class="post-link" target="_blank" href="https://zhuanlan.zhihu.com/p/40166746" data-za-element-name="Title">国际足联把世界杯的比赛时间挪到冬季的决定，到底意味着什么？</a></h2>
+</div>
+
+
+
+<div class="recommend-feed feed-item">
+
+<span class="zg-right zg-gray-normal feed-meta" >钙钛矿研究记（Perovskite ResearchViews）</span>
+
+<h2><a class="post-link" target="_blank" href="https://zhuanlan.zhihu.com/p/39975847" data-za-element-name="Title">非铅钙钛矿体系——双钙钛矿（性质，下）</a></h2>
+</div>
+
+
+</div>
+</div>
+<div class="explore-tab" id="js-explore-tab">
+<a class="zg-anchor-hidden" name="daily-hot"></a>
+<a class="zg-anchor-hidden" name="monthly-hot"></a>
+<ul class="tab-navs clearfix">
+<li class="tab-nav"><a class="anchor" href="#daily-hot" data-za-c="explore" data-za-a="visit_explore_daily_trendings" data-za-l="explore_daily_trendings">今日最热</a></li>
+<li class="tab-nav"><a class="anchor" href="#monthly-hot" data-za-c="explore" data-za-a="visit_explore_monthly_trendings" data-za-l="explore_monthly_trendings">本月最热</a></li>
+</ul>
+<div class="tab-panel">
+<div data-type="daily" data-zop-feedlist>
+<div class="explore-feed feed-item" data-offset="1">
+<h2><a class="question_link" href="/question/285480434/answer/446106172" target="_blank" data-id="25717124" data-za-element-name="Title">
+从轮胎表面能看出来车的多少信息？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="111178707"
+data-atoken="446106172"
+data-collapsed="0"
+data-created="1531938038"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="0"
+data-zop
+>
+<link itemprop="url" href="/question/285480434/answer/446106172">
+<meta itemprop="answer-id" content="111178707">
+<meta itemprop="answer-url-token" content="446106172">
+<a class="zg-anchor-hidden" name="answer-111178707"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>182</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">182</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$xiezhongyong"
+target="_blank" href="/people/xiezhongyong"
+>谢中用</a><span class="icon icon-badge-best_answerer icon-badge" data-tooltip="s$b$优秀回答者"></span></span><span class="badge-summary"><a href="/people/xiezhongyong#hilightbadge" target="_blank">轮胎、赛车话题优秀回答者</a></span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="182">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">182</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="25717124" data-action="/answer/content" data-author-name="谢中用" data-entry-url="/question/285480434/answer/446106172">
+
+<textarea hidden class="content">&lt;p&gt;&lt;b&gt;题主说的这种在学术上成为Schallamach磨损，在赛场上叫graining。&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-3a374da00f9a3e28b8a9af179f4d3ac3_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;943&quot; data-rawheight=&quot;653&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;943&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-3a374da00f9a3e28b8a9af179f4d3ac3_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-40c1b5d887c0acdedfe589ed1c56a14e_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;467&quot; data-rawheight=&quot;623&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;467&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-40c1b5d887c0acdedfe589ed1c56a14e_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;举个例子：当你用刮刀对橡胶在相同方向进行重复滑动刮擦时，橡胶表面会形成这样的图纹。磨损主要发生在山脊的底部，在垂直滑动方向形成一系列山脊。这样的特征图纹在赛车轮胎中经常会看到，激烈的驾驶环境及轮胎胎面的硬度是形成这种磨损的主要原因。这种软橡胶材料的磨损形式就是著名的Schallamach磨损图。&lt;b&gt;硬材料的磨损图会形成长刮痕，与滑动方向平行，这与Schallamach磨损图纹完全不同&lt;/b&gt;。橡胶之所以会形成这种特殊形式的磨损是由山脊底部反复侵蚀造成的。在摩擦力的作用下，底部山脊向后弯曲和延伸，如图所示，因此，位于山脊背面的表面不受磨损影响。刀片沿着橡胶表面滑动和离开受拉伸的山脊顶部，并且和下一个山脊底部再次接触，发生在山脊底部的重复磨损逐渐削弱山脊。最后，在山脊顶部落下大颗粒碎屑。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-1d2c8d13282e9ef06679e8b4e62684cf_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;478&quot; data-rawheight=&quot;289&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;478&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-1d2c8d13282e9ef06679e8b4e62684cf_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-7c6345c5440c2a044068404a76b682e0_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;577&quot; data-rawheight=&quot;432&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;577&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-7c6345c5440c2a044068404a76b682e0_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;因此Schallamach磨损图的山脊是非对称的，向刀片方向倾斜，所以能够推断出其滑动方向。更重要的是，由于磨损图是单向的，向轮胎运动方向倾斜，我们可以通过磨损的形态判断，轮胎相对于路面是向里侧还是外侧滑动。&lt;/p&gt;&lt;p&gt;随着磨损的严重程度增加，山脊的高度和间距也在增加，也就是对软橡胶用尖锐的磨料施加较高的摩擦力。&lt;b&gt;当摩擦力逐步增加到橡胶断裂强度时，磨损率突然增加，而且表面山脊的磨损图变成凿削状，没有特定的磨损图。如果沿着滑动方向反复变化，也不会形成Schallamach磨损图。所以必须是沿着同一方向的反复磨损。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一旦产生graining，几乎就不可能在接下来的时间里把他“磨掉”，也就是一旦产生这种图样，基本上就会持续到比赛结束。产生这种磨损图样是每个赛车手都不希望发生的，因为这会损失部分抓地力，抓地力就是圈速啊！&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;产生原因：&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;赛车手过于激烈的操控&amp;amp;胎面胶料太软；&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;胎面胶未达到工作温度之前，就过度使用；&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;camper角度过大，会在内侧产生磨损图样。&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-a42a24056db756ce1741d2fe648668bf_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1064&quot; data-rawheight=&quot;641&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1064&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-a42a24056db756ce1741d2fe648668bf_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;所以：胎面胶料比较软的轮胎，轮胎未充分预热，碰上激进的赛车手和不恰当的调校参数，这种磨损发生的概率就会增大。&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;解决措施：&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;这么机密的事情我会告诉你吗......&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;事实上有关的研究表明，在胎面胶中配置增加适当比例的抗氧化剂可能会有好的效果，具体有没有用我也不知道。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;第二种可以从外面看到的信息：&lt;b&gt;砂眼&lt;/b&gt;。估计对你没什么用，在这里写出来就当学术交流吧&lt;/p&gt;&lt;p&gt;学术名：blister，砂眼是我从字典上查的。具体表现就是胎面胶轴向一圈的内部橡胶真空化，产生很多空洞。&lt;/p&gt;&lt;p&gt;产生原因：内压过大，造成胎面胶与带束层交界处集聚过多热量，造成胎面胶融化。解决方法也可以在胎面胶配方上下手。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-0cbaad4c1030b1942ff2e9c282224354_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;603&quot; data-rawheight=&quot;740&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;603&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-0cbaad4c1030b1942ff2e9c282224354_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;第三种：正常调校下，胎面胶中间温度大于或等于内侧温度&lt;/b&gt;&lt;/p&gt;&lt;p&gt;正常调校下，都是内侧温度最高，中间温度次之，外部温度最低。如果出现中间温度与内侧温度持平甚至更高，那一般来说：就是轮胎外周大于了设计标准，导致中间部位鼓出来，这个肉眼很难看出来，但卷尺和温度计很诚实。&lt;/p&gt;&lt;p&gt;暂时就想到这么多，题主可以买一本&lt;/p&gt;&lt;p&gt;&lt;i&gt;The racing &amp;amp; high-performance tire : using the tires to tune for grip and balance&lt;/i&gt;&lt;/p&gt;&lt;p&gt;这本书主要介绍高性能和赛车轮胎&lt;/p&gt;&lt;p&gt;如果买了，麻烦题主借我看几天 &lt;/p&gt;&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.amazon.com/gp/product/0768012414/ref%3Dox_sc_mini_detail%3Fie%3DUTF8%26psc%3D1%26smid%3DAS82L10B1Y9TL&quot; data-draft-node=&quot;block&quot; data-draft-type=&quot;link-card&quot; data-image=&quot;https://pic2.zhimg.com/v2-543dc965cffa2a715cb9e0f0c39c7ec1_ipico.jpg&quot; data-image-width=&quot;350&quot; data-image-height=&quot;380&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;The Racing &amp;amp; High-Performance Tire: Using Tires to Tune for Grip &amp;amp; Balance (R-351)&lt;/a&gt;&lt;hr&gt;&lt;p&gt;后面有时间了我打算写写：轮胎与地面接触区域内，刹车力产生的原理和过程，包括剪切阶段（假滑移），滑移阶段的产生过程；剪切和滑移在宏观滑移中所占的比例；剪切或滑移的最大距离，还有冬季胎相关的自锁槽等等。&lt;/p&gt;&lt;p&gt;具体什么时候写待定，&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;都写这么多了，还没点13数吗？基本上是没时间写了。 ‍&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-7917e7b52c97c6374994c035afc5f37e_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;429&quot; data-rawheight=&quot;361&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;429&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-7917e7b52c97c6374994c035afc5f37e_r.jpg&quot;&gt;&lt;/figure&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/50/v2-685ac474ea898d381798936ec7d617b3_200x112.jpg" data-caption="" data-size="normal" data-rawwidth="943" data-rawheight="653" data-watermark="watermark" data-original-src="v2-685ac474ea898d381798936ec7d617b3" data-watermark-src="v2-3a374da00f9a3e28b8a9af179f4d3ac3" data-private-watermark-src="v2-7c68557740797ec0bbf0b333fef08eed" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/50/v2-685ac474ea898d381798936ec7d617b3_r.jpg">
+<b>题主说的这种在学术上成为Schallamach磨损，在赛场上叫graining。</b>举个例子：当你用刮刀对橡胶在相同方向进行重复滑动刮擦时，橡胶表面会形成这样的图纹。磨损主要发生在山脊的底部，在垂直滑动方向形成一系列山脊。这样的特征图纹在赛车轮胎中经常会看到，…
+
+<a href="/question/285480434/answer/446106172" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 02:20" target="_blank" href="/question/285480434/answer/446106172">编辑于 昨天 02:44</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-25717124"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="2">
+<meta name="disableCopyAvatar" content="https://pic2.zhimg.com/v2-54b00eca0db4dd4d9f540cd1590f6f12_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+
+<a href="/copyright/apply?answer=446106172" target="_blank" class="meta-item copyright">申请转载</a>
+
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="2">
+<h2><a class="question_link" href="/question/285576032/answer/446332918" target="_blank" data-id="25738417" data-za-element-name="Title">
+近年来，游戏行业有哪些提高制作效率的新技术？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="111219861"
+data-atoken="446332918"
+data-collapsed="0"
+data-created="1531973186"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/285576032/answer/446332918">
+<meta itemprop="answer-id" content="111219861">
+<meta itemprop="answer-url-token" content="446332918">
+<a class="zg-anchor-hidden" name="answer-111219861"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>127</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">127</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$wang-teng-hao"
+target="_blank" href="/people/wang-teng-hao"
+>王滕昊</a></span><span title="想做一个很厉害厉害的技术美术" class="bio">
+想做一个很厉害厉害的技术美术
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="127">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">127</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="25738417" data-action="/answer/content" data-author-name="王滕昊" data-entry-url="/question/285576032/answer/446332918">
+
+<textarea hidden class="content">&lt;p&gt;持续更新中..&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;基于photogrammetry的人脸扫描技术：&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-a3a0499b8e2a64117933068bf2c1c994_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1936&quot; data-rawheight=&quot;1391&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1936&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-a3a0499b8e2a64117933068bf2c1c994_r.jpg&quot;&gt;&lt;figcaption&gt;正在进行早期人脸扫描测试的新战神&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-104a782caebeffcae4512728c827195b_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;662&quot; data-rawheight=&quot;368&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;662&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-104a782caebeffcae4512728c827195b_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;将扫描的表情结果烘焙进入&lt;b&gt;blendshape rig，&lt;/b&gt;同时利用高模制作人物的wrinkle map和皮肤细节等。&lt;/p&gt;&lt;p&gt;对于环境，道具和材质的扫描可以大大降低美术的生产成本，并且提高美术质量。有兴趣可以了解下Megascans：&lt;a href=&quot;//link.zhihu.com/?target=https%3A//80.lv/articles/quixel-megascans-scanning-materials-for-games-film/&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Scanning Materials for Games &amp;amp; Film&lt;/a&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-fcc6dc2545b5727abb3cd1ff2cefff5a_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;822&quot; data-rawheight=&quot;472&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;822&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-fcc6dc2545b5727abb3cd1ff2cefff5a_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-8f4460cd220a8ba145ed581895b9ce3c_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;967&quot; data-rawheight=&quot;393&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;967&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-8f4460cd220a8ba145ed581895b9ce3c_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;2.&lt;b&gt; Procedural Generation，Parametrization and Simulation：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;除了 &lt;a class=&quot;member_mention&quot; href=&quot;//www.zhihu.com/people/241554cb15fabba14458746ed3ba1bce&quot; data-hash=&quot;241554cb15fabba14458746ed3ba1bce&quot; data-hovercard=&quot;p$b$241554cb15fabba14458746ed3ba1bce&quot;&gt;@招招&lt;/a&gt; 介绍的自动生成场景， &lt;b&gt;人物的自动生成&lt;/b&gt;也是另外一个火热的话题。以现在的技术实现基于photogrammetry的人脸扫描效率还是相当低的，并且价格也是较高的。因此2K和一些其他AAA公司早已开始研究模块化的人物自动构建系统，其中也利用了许多Machine Learning的技术。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-f3e0df3f5a73a69544ee310a962e13fe_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1885&quot; data-rawheight=&quot;1012&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1885&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-f3e0df3f5a73a69544ee310a962e13fe_r.jpg&quot;&gt;&lt;figcaption&gt;Black Desert&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-8fcaa808511d646c3bbcc95142a2e8d1_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1010&quot; data-rawheight=&quot;496&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1010&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-8fcaa808511d646c3bbcc95142a2e8d1_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;参数化&lt;/b&gt;是procedural generation的一个重要特点。例如SpeedTree，建模不再局限于将物体作为虚拟对象，对单个顶点或多边形进行操作，而是将物体作为真实对象来直接控制其高度和密度等。又比如使用Substance Painter，我们不再只局限于处理像素和纹理，而是通过对真实物体的观察将材质和笔刷进行混合。&lt;/p&gt;&lt;a href=&quot;//link.zhihu.com/?target=https%3A//store.speedtree.com/&quot; data-draft-node=&quot;block&quot; data-draft-type=&quot;link-card&quot; data-image=&quot;https://pic3.zhimg.com/v2-6e44f3b400468fe84769ba99d0f24af6_180x120.jpg&quot; data-image-width=&quot;1024&quot; data-image-height=&quot;320&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;SpeedTree Vegetation Modeling - SpeedTree&lt;/a&gt;&lt;p&gt;&lt;b&gt;Simulation&lt;/b&gt;同样帮助我们加快美术素材的制作。我们通过物理模拟的方法使得游戏中的物体在静态和动态都更加趋近真实世界。这样的制作方式更加可靠，同时也节省时间。例如，制作窗帘上时候，不用浪费时间在雕刻每一个褶皱，并担心这样的结果不符合物理结果？&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-04fcd7400b736f522e9141495189f7de_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;938&quot; data-rawheight=&quot;591&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;938&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-04fcd7400b736f522e9141495189f7de_r.jpg&quot;&gt;&lt;figcaption&gt;基于物理模拟的褶皱生成&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;我也会在未来我的专栏里面介绍如何通过&lt;b&gt;voronoi算法&lt;/b&gt;生成碎片&lt;b&gt;，&lt;/b&gt;并通过&lt;b&gt;Bullet&lt;/b&gt;插件进行物理模拟，并导入游戏引擎的流程。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-5782500ec61da213ab1d3aa808752b76_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;629&quot; data-rawheight=&quot;350&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;629&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-5782500ec61da213ab1d3aa808752b76_r.jpg&quot;&gt;&lt;figcaption&gt;计算机生成的破碎效果和破碎动画&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;3.  &lt;b&gt;基于神经网络的动画解算器：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;现在包括2K和Bungie这些工作室仍然在使用较轻量级的markless motion capture的解决方案， 而在SIGGRAPH 2016， Remedy工作室的大神们介绍了基于神经网络的动画解算器，可以直接将原始的视频信息转换成完备的游戏动画：&lt;/p&gt;&lt;a href=&quot;//link.zhihu.com/?target=https%3A//arxiv.org/pdf/1609.06536.pdf&quot; data-draft-node=&quot;block&quot; data-draft-type=&quot;link-card&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;arxiv.org/pdf/1609.0653&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;6.pdf&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-fcf081d390c8d2f915a26f5964846668_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;978&quot; data-rawheight=&quot;545&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;978&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-fcf081d390c8d2f915a26f5964846668_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;4. Modular Procedural Rigging&lt;/b&gt;&lt;/p&gt;&lt;p&gt;模块化绑定在近几年的&lt;b&gt;GDC&lt;/b&gt;上被广泛介绍，最大的优势是其可以使我们的绑定更加容易维护，更加容易迭代，从而提高制作效率。模块化即将我们的rig拆分成不同的部分，例如手臂的绑定可以通过一个IK component和一个FK component来实现。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-6a969eabaf35f337537e76205de51095_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;823&quot; data-rawheight=&quot;569&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;823&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-6a969eabaf35f337537e76205de51095_r.jpg&quot;&gt;&lt;figcaption&gt;Bungie的模块化绑定&lt;/figcaption&gt;&lt;/figure&gt;&lt;a href=&quot;//link.zhihu.com/?target=https%3A//www.gdcvault.com/play/1022339/Tools-Based-Rigging-in-Bungie&quot; data-draft-node=&quot;block&quot; data-draft-type=&quot;link-card&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Tools-Based Rigging in Bungie's Destiny&lt;/a&gt;&lt;p&gt;同时我们可以构建一个新的Metadata Node Network来实现&lt;b&gt;语意遍历&lt;/b&gt;，而不是通过寻找名字的&lt;b&gt;绝对遍历&lt;/b&gt;。比如语意遍历，可以通过手臂的节点找到从属于手臂的所有component，而不是去搜索场景的ikHandle和Pole Vector。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-e39e2c7b4aa7fbcf27ca8851461e7c3e_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;807&quot; data-rawheight=&quot;575&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;807&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-e39e2c7b4aa7fbcf27ca8851461e7c3e_r.jpg&quot;&gt;&lt;figcaption&gt;IK/FK component&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;总结：通过构建绑定的脚本库，制作绑定零件和模块，我们可以实现模块化绑定来提高大规模的游戏制作效率。&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/50/v2-e5bd667eeab7c670457496e3ba361119_200x112.jpg" data-caption="正在进行早期人脸扫描测试的新战神" data-size="normal" data-rawwidth="1936" data-rawheight="1391" data-watermark="watermark" data-original-src="v2-e5bd667eeab7c670457496e3ba361119" data-watermark-src="v2-a3a0499b8e2a64117933068bf2c1c994" data-private-watermark-src="v2-c3213d576c26635ce4c3c6e80adc41a9" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/50/v2-e5bd667eeab7c670457496e3ba361119_r.jpg">
+持续更新中..<b>基于photogrammetry的人脸扫描技术：</b>将扫描的表情结果烘焙进入<b>blendshape rig，</b>同时利用高模制作人物的wrinkle map和皮肤细节等。对于环境，道具和材质的扫描可以大大降低美术的生产成本，并且提高美术质量。有兴趣可以了解下Megascans：<a href="//link.zhihu.com/?target=https%3A//80.lv/articles/quixel-megascans-scanning-materials-for-games-film/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Scanni…</a>
+
+<a href="/question/285576032/answer/446332918" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 12:06" target="_blank" href="/question/285576032/answer/446332918">编辑于 02:50</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-25738417"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>11 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="3">
+<h2><a class="question_link" href="/question/284199537/answer/446159949" target="_blank" data-id="25432296" data-za-element-name="Title">
+为何有的动物可怜有的就不可怜了？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="111188435"
+data-atoken="446159949"
+data-collapsed="0"
+data-created="1531959384"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/284199537/answer/446159949">
+<meta itemprop="answer-id" content="111188435">
+<meta itemprop="answer-url-token" content="446159949">
+<a class="zg-anchor-hidden" name="answer-111188435"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>5631</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">5631</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$long-ya-57-84"
+target="_blank" href="/people/long-ya-57-84"
+>龙牙</a></span><span title="请叫我小xuo生。" class="bio">
+请叫我小xuo生。
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="5631">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">5631</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="25432296" data-action="/answer/content" data-author-name="龙牙" data-entry-url="/question/284199537/answer/446159949">
+
+<textarea hidden class="content">&lt;p&gt;我真正可怜过的动物只有一只，名字叫5054。其它的动物，顶多能够叫“恻隐之心”吧。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054实际上是个山的名字，叫5054高地，意思是海拔5054米的独立山头，2011年的时候因为工作原因在这里呆了差不多有3个月的时间。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054高地的风景非常的壮观，是一个峡谷大草原里面的一个制高点，每天24小时都在不断上演着大自然壮丽的景色，早上晚上日出洒出万道金光，上午云彩在草原上投下油画般的光影，半夜银河寂静的流淌，蛮荒与绚烂会让你很快忘了自己是个纠结而复杂的人类，让你不由自主的沉溺其中。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-b0992b5bb707a60eadf553525ddcae83_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;781&quot; data-rawheight=&quot;519&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;781&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-b0992b5bb707a60eadf553525ddcae83_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-182ea9c87be367164d0721c5f18077ab_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1447&quot; data-rawheight=&quot;937&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1447&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-182ea9c87be367164d0721c5f18077ab_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-59aa7b3b9c763dcf74a50326c3caf1ad_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1317&quot; data-rawheight=&quot;839&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1317&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-59aa7b3b9c763dcf74a50326c3caf1ad_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054是一只藏狐，就是那种长相颓丧、国字脸的狐狸。这家伙的家就在附近，尽管我这个人比较二，但还是没有二到给一只野生狐狸取名字的程度，所以多年以后，我们就叫它5054吧。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我手头没有5054的照片，它大概就长这个样子：&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-c5a7bab1e2cbf888b066e91e8f32c78f_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;486&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-c5a7bab1e2cbf888b066e91e8f32c78f_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;藏狐这东西非常的鸡贼，主要是靠刨兔鼠吃为生，偶尔也会吃土拨鼠。兔鼠和土拨鼠是草原上的害兽，数量爆炸式增长的话，草场很快就会退化。藏狐是它们的天敌，所以藏民还是很爱护这种益兽的。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-d95ec226bbdb9e3bbd8832907f36020e_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;340&quot; data-rawheight=&quot;281&quot; class=&quot;content_image&quot; width=&quot;340&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;藏狐胆子很小，看见人就拼命的逃窜，又会偷偷的跑到人类居住地附近找吃的。5054跟我认识就是因为我们的垃圾堆里经常有吃的，刨垃圾堆可比刨兔鼠省力多了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054是一个“准父亲”。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;藏狐都是一夫一妻制，母藏狐怀孕期间，公藏狐负责出去找吃的。我怀疑5054这家伙是个标准的暖男，我从来没见过它吃独食，每次在垃圾堆里翻到吃的，叼起来扭头就走，不一会儿就会回来继续翻。我试过悄悄跟踪它去找它的窝，每次它都会回过头用看傻逼的眼神看我，搞得我很尴尬。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我这个人在面对野生动物的时候非常讨人嫌，任何野生动物都想要按倒撸一会儿，曾经撸过野猪、老鹰、野生鹿、黄羊、旱獭，5054也最终没有逃脱我的魔爪。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;食物毕竟是拉近距离的最佳武器，不然为什么人类谈事情都喜欢在饭局上谈呢？使用食物勾引，花了不到一个月时间就让5054放下了戒心。5054意识到我是个拥有无穷无尽食物来源的家伙，并不在乎它身上那几斤肉，虽然它并不知道“军事后勤学”是什么东西，它也能够感觉到自己并不是我的食物。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;到了后来我们的关系已经非常铁了。如果我睡懒觉没起床的话，这家伙居然会跑来刨我的帐篷门要吃的。因为我总是主动给食物，5054有了很多空闲时间，跑回去把老婆喂饱了以后，偶尔会跑来找我玩儿，给我表演刨兔鼠。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-91df887fd2cfb2db89b72e75877d3b38_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;788&quot; data-rawheight=&quot;480&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;788&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-91df887fd2cfb2db89b72e75877d3b38_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;它刨兔鼠是一把好手，三下两下就能刨出一只来，然后叼到我面前来给我吃。可惜我不吃，让它非常失望。我只好给它表演垒石头，把几个石头垒得老高，让它叹为观止，并且对我灵巧的双手佩服得五体投地。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054跟我玩一会儿就得回去，照顾老婆要紧。我试过好几次去它家，它都不让，带我兜圈子并且用看傻逼的眼神看我。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2011年的时候我也是个准父亲，前妻那时候怀孕了，我又在部队不能回去。5054高地风景虽然很好，可惜手机信号非常差，得跑到半山坡一个大石头脚下，能够勉强有一格信号。我只要走的开就跑去打电话，家里的长长短短，孩子的情况，前妻的心情，营养。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;有一次在石头下面打电话的时候，突然听到5054的惨叫。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我的垃圾堆并不是只有5054一个翻，还有一群野狗。藏狐实际上从来不敢跟野狗起冲突的，野狗总是成群结队，藏狐永远形单影只，它根本惹不起野狗。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054跟我太铁了，它可能是对垃圾堆产生了领地意识，我不在，它决定保护我们的垃圾堆，跟一群野狗扛上了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我抡开腿跑回去，5054在跟狗群兜圈子。我扯开嗓子就喊，这些狗虽然野化了，但是人类的权威是写在基因里的，听见我喊，愣了一会四散而去。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054并没有吃太大的亏，别看他长得肥肥胖胖的，其实那些都是毛。它那么大一坨，其实也就不到10公斤的样子，狗咬它往往只能咬到毛。浑身上下只有左前腿有一个很深的伤口，还在汩汩冒血。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我把它按倒止血包扎，它居然试图咬我。我也不敢含糊，戴上军用手套把它按倒绑住，止血包扎好，关在一个木头箱子里。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我想把它留到明天早上，看看伤口情况再放回去。5054一点都不领情，使劲咬木头箱子，木头渣子把它嘴角扎破了，满嘴都是血，我没办法，只好把它放出来。这家伙，出来就死命撕扯前腿上的绷带，扯下来头都不回一瘸一拐的跑了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我一夜都在想着5054，它会不会被我吓到了，会不会再也不来找我要吃的，它受伤了怎么去捕猎，它抓不到吃的那一家老小怎么办。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;第二天一早我就爬起来，坐在给5054表演垒石头的那个石包上等着，拿着一块五花肉。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;不一会儿就看着5054在刚刚爬起来的阳光里爬山，掂着受伤的那条腿，爬一会儿山，喘一会儿，接着埋头爬山。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我拎着五花肉下山给它，一人一狐在半山腰见了面。它叼着五花肉并没有马上离开，陪我坐了一会儿。我看了看它伤口，血没有流了，但还没结痂。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;它这样下去必死无疑。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054瘸着腿消失在地平线那边，我不敢去跟踪，它现在这个样子绝对没办法带我兜圈子。我看它眼神都有点散了，怕是再也没办法像看傻逼一样看我。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;要不说咱怎么是搞农业的呢，鬼点子就是多。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我把消炎药，头孢、阿莫西林啥的，磨碎了放到肉里面腌一晚上，第二天5054来了就给它。它也不知道，就这么吃了一个星期的掺了药的肉，居然结痂了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;后来有一天，5054再也没来，大概是孩子生了吧。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;过了几天我也撤收回去了，我的孩子也即将出生。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;过了几年，我再去5054高地拍照片，也没有看见5054。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;藏狐只有9年的寿命而已。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我可怜5054，大概是因为我敬佩它吧。如果一个动物不值得敬佩，也就不值得可怜。它只会呼呼长肉，有什么好可怜的呢？&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;任何一个刚刚组建家庭、拼命维护家庭的年轻人，都是值得敬佩的。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5054也不说变个狐狸精来找我啥的，还是怪想它的。这个倔犟、活泼、顾家的年轻人啊……&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/50/v2-eb158178d92139a7c515d97452942b6f_200x112.jpg" data-caption="" data-size="normal" data-rawwidth="781" data-rawheight="519" data-watermark="watermark" data-original-src="v2-eb158178d92139a7c515d97452942b6f" data-watermark-src="v2-b0992b5bb707a60eadf553525ddcae83" data-private-watermark-src="v2-e4f4cd775c903a13dd1e08386980b226" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/50/v2-eb158178d92139a7c515d97452942b6f_r.jpg">
+我真正可怜过的动物只有一只，名字叫5054。其它的动物，顶多能够叫“恻隐之心”吧。 5054实际上是个山的名字，叫5054高地，意思是海拔5054米的独立山头，2011年的时候因为工作原因在这里呆了差不多有3个月的时间。 5054高地的风景非常的壮观，是一个峡谷大…
+
+<a href="/question/284199537/answer/446159949" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 08:16" target="_blank" href="/question/284199537/answer/446159949">编辑于 昨天 09:42</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-25432296"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>305 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="4">
+<h2><a class="question_link" href="/question/285785422/answer/445984655" target="_blank" data-id="25785185" data-za-element-name="Title">
+如何评价NOI2018强制要求参加社会实践活动？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="111156764"
+data-atoken="445984655"
+data-collapsed="0"
+data-created="1531925487"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="0"
+data-zop
+>
+<link itemprop="url" href="/question/285785422/answer/445984655">
+<meta itemprop="answer-id" content="111156764">
+<meta itemprop="answer-url-token" content="445984655">
+<a class="zg-anchor-hidden" name="answer-111156764"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>229</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">229</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$kkksc03"
+target="_blank" href="/people/kkksc03"
+>kkksc03</a></span><span title="洛谷吉祥物，致力于计算机科学基础教育" class="bio">
+洛谷吉祥物，致力于计算机科学基础教育
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="229">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">229</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="25785185" data-action="/answer/content" data-author-name="kkksc03" data-entry-url="/question/285785422/answer/445984655">
+
+<textarea hidden class="content">&lt;p&gt;update2:&lt;/p&gt;&lt;p&gt;被集体折叠了。ccf你牛逼我服。&lt;/p&gt;&lt;p&gt;被解折叠了。如果是因为zhihu的bug造成的，那么上一行可能冤枉了ccf，这一点向ccf道歉。&lt;/p&gt;&lt;p&gt;听学弟说一些人没有去。如果ccf不是恐吓一下而是动真格的取消比赛资格，那就是没有下限了。不过就算取消资格也要讲基本法，没有规章制度明确规定这种情况，就没有权利一句话取消就取消。&lt;/p&gt;&lt;p&gt;&lt;b&gt;update：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;我的想法是并非不应该收钱，毕竟我谷也不会用爱发电驱动十几台评测机对吧。ccf在计算机领域的贡献我也没有否认，但是&lt;b&gt;科研项目的资金和奖金来源并非来自NOI系列竞赛&lt;/b&gt;（毕竟科研支出还是以亿计），而是有专门的科研经费。NOI系列的比赛的财务并非和科研是同一资金池（感兴趣可以去查一下ccf公开的财务报表）。喷ccf的原因不是因为收钱，&lt;b&gt;而是收钱并不支持他的合理开销。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;如果说举办比赛&lt;b&gt;需要成本&lt;/b&gt;，各省承办比赛也需要费用。我这边已经很保守的估计了，我特意把“上交ccf”的部分算进去，而&lt;b&gt;没有把“300元给省级单位自行支配”计算进去&lt;/b&gt;。学校还巴不得承办比赛，场地费用需要什么呢？一个人300元，一个省几百人，&lt;b&gt;数十万的经费，支付一次NOIP监考、安保等人力和其他必要的支出绰绰有余&lt;/b&gt;（我监考过类似的比赛，一天200块，2个选手报名费就可以让3个kkk监考一天）。出题者有没有出题费我不知道，但就算有一题也是以千元计。我是定量的分析问题，如果有不同意见，也可以定量的给出不同数据。&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;实名占领喷位。我已经OI退役了5年了难道还怕你把我交了100块的一等证书收回？&lt;/p&gt;&lt;p&gt;开幕式上口口声声说，xx主义必将灭亡，xx主义才是正道。&lt;b&gt;但是我们看到的是，€€£这一两年来，吸金本质暴露无疑。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;明着要向公众讨钱：&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-46abdb73eea08b6ad61d867024391cbf_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;955&quot; data-rawheight=&quot;357&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;955&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-46abdb73eea08b6ad61d867024391cbf_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;光举办一个NOI，也可以吸金&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-b48dd70bee6e8d38ae0bef1f899d8b96_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1234&quot; data-rawheight=&quot;507&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1234&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-b48dd70bee6e8d38ae0bef1f899d8b96_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;今天突然冒出了NOIP2018报名通知。&lt;b&gt;普及组和提高组费用大涨超过70%&lt;/b&gt;！&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-352962d6d091963a8734c1851a2c0f85_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;1044&quot; data-rawheight=&quot;368&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1044&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-352962d6d091963a8734c1851a2c0f85_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;我们来算一笔账。我们假设€€£没能乞讨到一分钱。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;APIO&lt;/b&gt; 773人（根据获奖名单464人和60%获奖率）773*2800=216万&lt;/p&gt;&lt;p&gt;&lt;b&gt;NOI WC&lt;/b&gt; 人数不详，按照获奖名单上353人，353*2600=91万&lt;/p&gt;&lt;p&gt;&lt;b&gt;CTSC&lt;/b&gt; 按照获奖名单383人，383*2800=100万&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;NOI：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;AB类：(155+130)*2600=74万。&lt;/p&gt;&lt;p&gt;D类：150*(20000+2600)=339万。&lt;/p&gt;&lt;p&gt;教练以及参加培训的教师，加起来假设200人都是会员，200*2500=50万。&lt;/p&gt;&lt;p&gt;C类不详，不计算。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;对于&lt;b&gt;NOIP&lt;/b&gt;，这是去年的数据：&lt;/p&gt;&lt;p&gt;提高组，获奖总数2464人，获奖率23.92%，一共10301人&lt;/p&gt;&lt;p&gt;普及组，获奖总数1761人，获奖率21.31%，一共8264人。&lt;/p&gt;&lt;p&gt;假设今年差不多，就是可以吸金10300*(20+180)+8264*(20+100)=305万&lt;/p&gt;&lt;p&gt;另外有7万人参加初赛没过（20%通过率，我们不管买卷子之类的）140万。&lt;/p&gt;&lt;p&gt;假设一等奖都买了证书，再加上42万的证书钱。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;各类教师培训，举办了5期，每人2500元，人数不详。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;以上的加起来，&lt;b&gt;光是€€£从选手教练上就可以吸金1356万元人民币。&lt;/b&gt;相当于一个中型企业的年营业额。这个是一个&lt;b&gt;非常非常保守&lt;/b&gt;的计算，引用的各种公开的数据，实际上只会更多。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;一边说xx主义必将灭亡，一边如同xx主义吸金，各种事情表现出来金钱至上的姿态，&lt;b&gt;实在是吃相难看&lt;/b&gt;。然而一些外国xx主义的各种协会（ACM\IEEE等），给了钱，还是可以叫你一声爷爷的（至少说该有的服务都能做到位）。但是处于中国xx主义的ccf非常符合国情的收了钱毫无服务意识，ccf邮箱发邮件从来没人回（kkk为何今天如此愤怒？因为这几天被ccf放鸽子了。这个有空另外写文喷）。&lt;/p&gt;&lt;p&gt;今年每次比赛必出锅，WC题面坏了没通知，CTSC丢程序；这次这么重大的比赛，甚至样例坏了、题面出错。实在是&lt;b&gt;用心collect-money，用脚办比赛。&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-8b14ebad80d276b14ddd1ca32a30994a_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;475&quot; data-rawheight=&quot;370&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;475&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-8b14ebad80d276b14ddd1ca32a30994a_r.jpg&quot;&gt;&lt;figcaption&gt;图来源于我谷群，侵删&lt;/figcaption&gt;&lt;/figure&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic4.zhimg.com/50/v2-9d8d17452896798bfab02d720959807f_200x112.jpg" data-caption="" data-size="normal" data-rawwidth="955" data-rawheight="357" data-watermark="watermark" data-original-src="v2-9d8d17452896798bfab02d720959807f" data-watermark-src="v2-46abdb73eea08b6ad61d867024391cbf" data-private-watermark-src="v2-79ee6741ba8f31a610b7ebff648a1652" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/50/v2-9d8d17452896798bfab02d720959807f_r.jpg">
+update2:被集体折叠了。ccf你牛逼我服。被解折叠了。如果是因为zhihu的bug造成的，那么上一行可能冤枉了ccf，这一点向ccf道歉。听学弟说一些人没有去。如果ccf不是恐吓一下而是动真格的取消比赛资格，那就是没有下限了。不过就算取消资格也要讲基本法，没有…
+
+<a href="/question/285785422/answer/445984655" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2018-07-18" target="_blank" href="/question/285785422/answer/445984655">编辑于 昨天 18:12</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-25785185"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>14 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="2">
+<meta name="disableCopyAvatar" content="https://pic4.zhimg.com/v2-c2c4a8f4eeaf3b7d9ff69b61a42d6901_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+
+<a href="/copyright/apply?answer=445984655" target="_blank" class="meta-item copyright">申请转载</a>
+
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="5">
+<h2><a class="question_link" href="/question/20067312/answer/446301786" target="_blank" data-id="206985" data-za-element-name="Title">
+人的眼皮为什么会跳？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="111214193"
+data-atoken="446301786"
+data-collapsed="0"
+data-created="1531970834"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="0"
+data-zop
+>
+<link itemprop="url" href="/question/20067312/answer/446301786">
+<meta itemprop="answer-id" content="111214193">
+<meta itemprop="answer-url-token" content="446301786">
+<a class="zg-anchor-hidden" name="answer-111214193"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1364</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1364</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$ding-xiang-yi-sheng"
+target="_blank" href="/org/ding-xiang-yi-sheng"
+>丁香医生</a><span class="icon icon-badge-id-an icon-badge" data-tooltip="s$b$优秀回答者 · 已认证的个人"></span></span><span class="badge-summary"><a href="/people/ding-xiang-yi-sheng#hilightbadge" target="_blank">医学话题优秀回答者</a></span>
+
+
+
+<span title="身体上的问题，来问丁香医生" class="bio">
+身体上的问题，来问丁香医生
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1364">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1364</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="206985" data-action="/answer/content" data-author-name="丁香医生" data-entry-url="/question/20067312/answer/446301786">
+
+<textarea hidden class="content">&lt;p&gt;看到这个问题，如果你第一反应是&lt;b&gt;「左眼跳财，右眼跳灾」&lt;/b&gt;，那就太天真了，&lt;b&gt;真相可没那么简单。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;。&lt;/p&gt;&lt;p&gt;因为……这个说法升级了！网上随手一搜，你就会发现，眼皮跳&lt;b&gt;可不能只考虑是哪只眼。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;还得考虑是&lt;b&gt;星期几&lt;/b&gt;跳的 :&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-eb69059c838b579b969e37e828fcb1a2_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;431&quot; data-rawheight=&quot;671&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;431&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-eb69059c838b579b969e37e828fcb1a2_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;不仅要看星期几，还要具体到是&lt;b&gt;哪个时辰开始的：&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-104a6a1e39d85f2355679eca804baf63_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;759&quot; data-rawheight=&quot;751&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;759&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-104a6a1e39d85f2355679eca804baf63_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;？？？ 再继续搜是不是还能找到&lt;b&gt;具体到几点几分几秒的？&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;让人震惊的是，这种一看就在&lt;b&gt;胡编乱造博取眼球&lt;/b&gt;的「经验分享」，竟然有这么多人相信：&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-5d9351b484b8510520c1ba28af265472_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;109&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;440&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-5d9351b484b8510520c1ba28af265472_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;评论区还有&lt;b&gt;鼓掌撒花的&lt;/b&gt;？&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-4625826a6726e3d45a9b1f030167c509_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;696&quot; data-rawheight=&quot;256&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;696&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-4625826a6726e3d45a9b1f030167c509_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;现身说法的？&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-cf3a5b28daec976c3d8cdaffa16dfed7_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;707&quot; data-rawheight=&quot;193&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;707&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-cf3a5b28daec976c3d8cdaffa16dfed7_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-6176c1290b1a961abb3e2ebd2908b542_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;705&quot; data-rawheight=&quot;117&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;705&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-6176c1290b1a961abb3e2ebd2908b542_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-418e4b09d2ba034862863c696598792c_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;685&quot; data-rawheight=&quot;101&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;685&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-418e4b09d2ba034862863c696598792c_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：网络&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;真不知道这个干儿子上快手热门的网友，Ta 的干儿子&lt;b&gt;最后有没有成为网红&lt;/b&gt;；也不知道那个贴吧和人吵架骂人的网友，&lt;b&gt;现在账号有没有被解封……&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;但是我知道，稍微有点脑子的人，都明白种&lt;b&gt;「伪科普」:&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-c9074c6a7a578c8c449836503343c69a_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;514&quot; data-rawheight=&quot;302&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;514&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-c9074c6a7a578c8c449836503343c69a_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这和朋友圈里那些&lt;b&gt;「属鼠的转发交好运」、「5 月生的人不看会倒大霉」&lt;/b&gt;难道不是一个套路吗？&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;一旦你信了，会自然而然的&lt;b&gt;和自己之后的经历联系起来&lt;/b&gt;，&lt;b&gt;有意识的去「验证」&lt;/b&gt;其真实性。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;利用人们的这种心理：&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-25c4f5ae5612afa3de04823732c4d5c9_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;635&quot; data-rawheight=&quot;320&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;635&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-25c4f5ae5612afa3de04823732c4d5c9_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;而在医生眼里，眼皮跳不能帮你占卜人生，因为只有两种可能：&lt;b&gt;没病和有病。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;绝大部分情况下，&lt;/b&gt;眼皮跳不是病，也就是&lt;b&gt;生理性&lt;/b&gt;的。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这种眼皮跳一般是&lt;b&gt;短时间的，毫无征兆的出现，又毫无症状的停止，&lt;/b&gt;就像夏天的雷阵雨，「来无影去无踪」。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;医学上，眼皮跳叫做&lt;b&gt;「眼睑震颤」&lt;/b&gt;，原理是&lt;b&gt;眼部肌肉在神经支配下发生颤动&lt;/b&gt;，进而&lt;b&gt;带动皮肤的跳动。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;简单点说，就是你的&lt;b&gt;眼部肌肉在哆嗦&lt;/b&gt;，你直观感受就是眼皮在「跳」。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;「哆嗦」的原因，&lt;b&gt;美国眼科学&lt;/b&gt;会给出了两个，&lt;b&gt;「压力和疲劳」。&lt;/b&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-0646454d7a2460e48f23da985ac12b7b_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;58&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-0646454d7a2460e48f23da985ac12b7b_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：American Academy of Ophthalmology&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;所以大多数情况下，&lt;b&gt;你出现眼皮跳，可能是因为：&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;工作&lt;b&gt;压力大&lt;/b&gt;；&lt;/li&gt;&lt;li&gt;长时间盯着&lt;b&gt;电子屏幕&lt;/b&gt;；&lt;/li&gt;&lt;li&gt;&lt;b&gt;没有及时就寝&lt;/b&gt;，比如熬夜；&lt;/li&gt;&lt;li&gt;太爱学习了导致&lt;b&gt;用眼过度&lt;/b&gt;；&lt;/li&gt;&lt;li&gt;……&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;总结一下就是，你&lt;b&gt;眼睛累的受不了了，&lt;/b&gt;于是跳一跳来&lt;b&gt;提醒你：「TMD 赶紧让我歇会儿！」&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;此外，美国纽约大学的研究者发现，&lt;b&gt;饮用咖啡可能增加眼皮跳的几率。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;他们认为，&lt;b&gt;咖啡能增加兴奋性神经递质&lt;/b&gt;如多巴胺、去甲肾上腺素的&lt;b&gt;分泌&lt;/b&gt;，从而&lt;b&gt;刺激眼轮匝肌及相应的神经冲动&lt;/b&gt;，引起眼皮跳。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-862cb6193cd8d2337f7068df315db22f_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;168&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-862cb6193cd8d2337f7068df315db22f_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：《美国生理学杂志》电子版&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;所以，日常遇到眼皮跳，除了&lt;b&gt;减少咖啡因制品的摄入&lt;/b&gt;之外，注意眼睛休息，停下手头的活，&lt;b&gt;闭眼躺着就行了。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;不需要相信&lt;/b&gt;网上那些玄乎的解读，也&lt;b&gt;不需要使用&lt;/b&gt;这些奇葩的偏方处理。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-abcd85e0cf338bebfec5414755a6d5b1_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;700&quot; data-rawheight=&quot;114&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;700&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-abcd85e0cf338bebfec5414755a6d5b1_r.jpg&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-ede6bb770b63394749b8f7eb8b78d6b7_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;139&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-ede6bb770b63394749b8f7eb8b78d6b7_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：网络&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;因为这些神鬼邪术，和上面的迷信说法没啥两样，&lt;b&gt;没让眼皮停下来，还会被人骂 S*B 。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;当然，如果你&lt;b&gt;眼皮跳个不停，就要警惕了&lt;/b&gt;，你可能——&lt;b&gt;有病。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;说个&lt;b&gt;极端点的例子：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote&gt;2015 年 5 月，重庆就有一位女士&lt;b&gt;因笃信「左眼跳财」的迷信说法&lt;/b&gt;，愣是对&lt;b&gt;跳了八年&lt;/b&gt;的左眼皮置之不理。&lt;br&gt;&lt;br&gt;结果，这左眼皮跳愈发严重，从开始的持续几秒延长至数分钟之久，最后&lt;b&gt;变成左侧嘴角甚至整个左侧面部抽动。&lt;/b&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-e71ebe2d8721475404c6a41a3728a620_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;230&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-e71ebe2d8721475404c6a41a3728a620_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：新闻截图&lt;/figcaption&gt;&lt;/figure&gt;&lt;blockquote&gt;无奈去医院检查才知道，原来是&lt;b&gt;血管压迫了面神经根部，&lt;/b&gt;导致眼皮跳和面部抽动。&lt;br&gt;&lt;br&gt;最后通过&lt;b&gt;微血管减压术，将血管与神经隔离开，&lt;/b&gt;才解决了问题。&lt;/blockquote&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;我们无法想象这位大姐，&lt;b&gt;眼皮蹦了八年&lt;/b&gt;是一种怎样的体验。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;但是可以解释的是，这种类型的眼皮跳，大多是&lt;b&gt;病理性&lt;/b&gt;的。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;在&lt;b&gt;医学专业数据库 UpToDate &lt;/b&gt;里显示，持续性的眼睑痉挛属于&lt;b&gt;肌张力障碍&lt;/b&gt;的其中一类。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-2d42b4dc78e2399e7323dfb9675d86be_b.jpg&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;320&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-2d42b4dc78e2399e7323dfb9675d86be_r.jpg&quot;&gt;&lt;figcaption&gt;图片来源：UpToDate&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;也就是说，这时候的眼皮跳不单单是眼皮跳了，而可能是&lt;b&gt;额面、头颅内或全身性疾病的临床症状&lt;/b&gt;之一。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote&gt;丁丁医生啊，我该怎么判断自己是哪种？总不能等八年吧！&lt;/blockquote&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;如果眼皮跳了，&lt;b&gt;留心记录下开始的时间&lt;/b&gt;，如果&lt;b&gt;不能通过休息、眼部放松自行缓解&lt;/b&gt;，你就要注意了。一旦出现了如下情况：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;眼皮跳持续时间超过一周；&lt;/li&gt;&lt;li&gt;出现眼皮彻底闭合且睁眼困难；&lt;/li&gt;&lt;li&gt;眼皮跳引起脸部同时抽动；&lt;/li&gt;&lt;li&gt;眼皮跳伴随眼睛发红、酸涩且流泪。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这时候&lt;b&gt;就一定得去医院就医了！&lt;/b&gt;医生会告知相应情况以便进一步诊治。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;一般最有效的治疗是&lt;b&gt;肉毒杆菌毒素注射，以及药物的辅助治疗，&lt;/b&gt;如果还是无效，有可能得通过&lt;b&gt;手术&lt;/b&gt;的方式来治愈了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;总而言之，眼皮跳的&lt;b&gt;原因不能一概而论。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;分为生理性和病理性的两种，&lt;/b&gt;科学判断就好，不用过度紧张。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;当然，虽然它是一件小概率事件，但是要是&lt;b&gt;跳起来没完没了，&lt;/b&gt;却以为没事，或者一味迷信俗语，&lt;b&gt;拖延治疗，后果不堪设想。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;至于网上&lt;b&gt;毫无科学性、带有迷信色彩的&lt;/b&gt;经验分享。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;下回看到：&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-40df70eae8b895b13bf654979d31dd66_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;449&quot; data-rawheight=&quot;213&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;449&quot; data-original=&quot;https://pic3.zhimg.com/50/v2-40df70eae8b895b13bf654979d31dd66_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;内容参考丁香医生科普文章：&lt;/p&gt;&lt;a href=&quot;//link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/8YdSmV-vuuKDBfb991fSqw&quot; data-draft-node=&quot;block&quot; data-draft-type=&quot;link-card&quot; data-image=&quot;https://pic4.zhimg.com/v2-b368ec462d9a50a1254d6d9b9751c597_180x120.jpg&quot; data-image-width=&quot;888&quot; data-image-height=&quot;500&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;左眼跳财，右眼跳灾？眼皮跳到底是咋回事？&lt;/a&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-e8a2d6ae2ae732007ae04680774532b1_b.jpg&quot; data-caption=&quot;&quot; data-size=&quot;normal&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;268&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-e8a2d6ae2ae732007ae04680774532b1_r.jpg&quot;&gt;&lt;/figure&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/50/v2-eb69059c838b579b969e37e828fcb1a2_200x112.jpg" data-caption="" data-size="normal" data-rawwidth="431" data-rawheight="671" data-watermark="" data-original-src="" data-watermark-src="" data-private-watermark-src="" data-tags="flat_color" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/50/v2-eb69059c838b579b969e37e828fcb1a2_r.jpg">
+看到这个问题，如果你第一反应是<b>「左眼跳财，右眼跳灾」</b>，那就太天真了，<b>真相可没那么简单。</b>。。。。。。因为……这个说法升级了！网上随手一搜，你就会发现，眼皮跳<b>可不能只考虑是哪只眼。</b> 还得考虑是<b>星期几</b>跳的 :不仅要看星期几，还要具体到是<b>哪个时辰开…</b>
+
+<a href="/question/20067312/answer/446301786" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 昨天 11:27" target="_blank" href="/question/20067312/answer/446301786">编辑于 昨天 11:35</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-206985"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>132 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="0">
+<meta name="disableCopyAvatar" content="https://pic4.zhimg.com/v2-fc8c90ae998dd9ae303687a19043624c_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-panel">
+<div data-type="monthly" data-zop-feedlist>
+<div class="explore-feed feed-item" data-offset="1">
+<h2><a class="question_link" href="/question/280522618/answer/422943135" target="_blank" data-id="24614491" data-za-element-name="Title">
+有哪些「将语文能力发挥得淋漓尽致」的例子？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="106967885"
+data-atoken="422943135"
+data-collapsed="0"
+data-created="1529587306"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/280522618/answer/422943135">
+<meta itemprop="answer-id" content="106967885">
+<meta itemprop="answer-url-token" content="422943135">
+<a class="zg-anchor-hidden" name="answer-106967885"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1834</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1834</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$yu-le-29-12"
+target="_blank" href="/people/yu-le-29-12"
+>于勒</a></span><span title="什么都会一点点。。。" class="bio">
+什么都会一点点。。。
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1834">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1834</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="24614491" data-action="/answer/content" data-author-name="于勒" data-entry-url="/question/280522618/answer/422943135">
+
+<textarea hidden class="content">&lt;p&gt;只能看不能读的文章。。。&lt;/p&gt;&lt;p&gt;=======割一下=====&lt;/p&gt;&lt;p&gt;word妈呀！千赞成就达成。。。我只是做了一点微小的收集搬运工作而已，谢谢各位小哥哥小姐姐了，比心心。。。&lt;/p&gt;&lt;p&gt;=======再割一下=====&lt;br&gt;&lt;/p&gt;&lt;p&gt;《季姬击鸡记》&lt;/p&gt;&lt;p&gt;（作者不可考，全文共77字）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;季姬寂，集鸡，鸡即棘鸡。棘鸡饥叽，季姬及箕稷济鸡。鸡既济，跻姬笈，季姬忌，急咭鸡，鸡急，继圾几，季姬急，即籍箕击鸡，箕疾击几伎，即齑，鸡叽集几基，季姬急极屐击鸡，鸡既殛，季姬激，即记《季姬击鸡记》。&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;季姬感到寂寞，罗集了一些鸡来养，是那种出自荆棘丛中的野鸡。野鸡饿了叫嘎嘎，季姬就拿竹箕中的小米喂它们。鸡吃饱了，跳到季姬的书箱上，季姬怕脏，忙赶鸡，鸡吓急了，就接着跳到桌子上，季姬更着急了，就借竹箕为赶鸡的工具，投击野鸡，竹箕的投速很快，却打中了几桌上的陶伎俑，那陶伎俑掉到地下，竟粉碎了。季姬睁眼一瞧，鸡躲在几桌下乱叫，季姬一怒之下，脱下木屐鞋来打鸡,把鸡打死了。想着养鸡的经过，季姬激动起来，就写了这篇《季姬击鸡记》。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《施氏食狮史》&lt;/p&gt;&lt;p&gt;（作者：赵元任；全文共92字）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;石室诗士施氏，嗜狮，誓食十狮。适施氏时时适市视狮。十时，适十狮适市。是时，适施氏适市。氏视是十狮，恃矢势，使是十狮逝世。氏拾是十狮尸，适石室。石室湿，氏使侍拭石室。石室拭，氏始试食是十狮尸。食时，始识是十狮尸，实十石狮尸。试释是事。&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;有一位姓施的诗人，他的名号叫石室诗士。他特别嗜好狮子，发誓要吃十头狮子。姓施的常常到市集里看狮子。十点钟，刚好十头狮子来到市集。这时，刚好姓施的（也）来到市集。姓（施）的看这十头狮子，仗着箭的力量，使这十头狮子死了。姓（施）的收拾这十头狮子，到石头做的屋子。石头做的屋子很潮湿，姓（施）的命令侍者擦拭石头做的屋子。石头做的屋子擦（好了），姓（施）的开始尝试吃这十头狮子。吃的时候，才知道这十头狮子，实际上是十座石头做的狮子的尸体。(请)试着解释这件事。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《于瑜与余欲渔遇雨》&lt;/p&gt;&lt;p&gt;（作者：杨富森）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;于瑜欲渔，遇余于寓。语余：“余欲渔于渝淤，与余渔渝欤？”余语于瑜：“余欲鬻玉，俞禹欲玉，余欲遇俞于俞寓。”余与于瑜遇俞于俞寓，逾俞隅，欲鬻玉与俞，遇雨，雨逾俞宇。余语于俞：“余欲渔于渝淤，遇雨俞宇，欲渔欤？鬻玉欤？”于瑜与余御雨于俞寓，俞鬻玉与余禹，雨愈，余与于瑜踽踽逾逾俞宇，渔于渝淤。&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;于瑜想去钓鱼，到我家找我，对我说：“我想去渝水的滩涂上钓鱼，你和我去吗，”我说：“我打算卖玉，俞禹想买我的玉，我得去他家。”于是我同于瑜一同来到了俞禹家，见到了俞禹，想要把玉卖给他。这时天下起了雨，大雨漫过了俞禹家的房子。我对俞禹说：“我本来打算去渝水的滩涂上钓鱼，现在在你家遇上大雨，是该钓鱼呢？还是卖玉呢？”于瑜和我在一起在俞禹家避雨，我把玉卖给了俞禹。等雨停了，我和于瑜慢慢走出俞禹的家，去渝水的滩涂上钓鱼。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《熙戏犀》&lt;/p&gt;&lt;p&gt;（作者：赵元任）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;西溪犀，喜嬉戏。席熙夕夕携犀徙，席熙细细习洗犀。犀吸溪，戏袭熙。席熙嘻嘻希息戏。惜犀嘶嘶喜袭熙。&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;西溪的犀牛，喜欢玩耍，席熙每天带犀出去，席熙忙着细心帮犀牛洗澡，犀牛吸着溪水喷向席熙逗他，席熙笑嘻嘻让犀牛不要闹，可是犀牛乐此不疲，就爱嬉戏。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;【对联一则】&lt;/p&gt;&lt;p&gt;上联：齐妻起棋，齐欺妻气，妻弃七棋。&lt;/p&gt;&lt;p&gt;下联：伊姨移椅，伊倚姨疑，姨遗一椅。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《吏李立莅》&lt;/p&gt;&lt;p&gt;（作者：程阳）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;吏李立莅，赲逦屴岦峛沥俚黎，立艃漓里叕鲤礼黎，罹沴厉离，俚黎蛎鹂历呖。&lt;/p&gt;&lt;p&gt;【释义】&lt;/p&gt;&lt;p&gt;官员李立上任，穿梭行走在曲折的山路间体恤山里的百姓，站在船上在漓江里撒网捕鲤鱼送给百姓，患上了瘟疫去世，乡亲百姓哭得很厉害、蛎鹬黄鹂鸟都哀鸣。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《遗镒疑医》&lt;/p&gt;&lt;p&gt;（作者不可考）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;伊姨殪，遗亿镒。伊诣邑，意医姨疫。一医医伊姨。翌，亿镒遗，疑医，以议医。医以伊疑，缢，以移伊疑。伊倚椅以忆，忆以亿镒遗，以议伊医，亦缢。噫，亦异矣！&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;伊的姨母死了，留下亿万财产。伊赶到城里，让医生(重新)检验姨母的病。有一个医生检验伊的姨母[验尸?!]，但是第二天，(姨母的)亿万家产却遗失了，（伊）怀疑医生有问题，拿这件事告了[议:议罪]医生。医生因为伊的怀疑，悬梁自尽了，用来(证明自己的清白)回应[移:改变]伊的怀疑。伊靠着椅子回忆，想起了因为亿万财产的遗失，并拿这件事状告自己请的医生，也悬梁自尽了。哀！(这事)也真是太奇怪了！&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;《易姨医胰》&lt;/p&gt;&lt;p&gt;（作者：江涛）&lt;/p&gt;&lt;p&gt;【原文】&lt;/p&gt;&lt;p&gt;易姨悒悒，依议诣夷医。医疑胰疫，遗意易姨倚椅，以异仪移姨胰，弋异蚁一亿，胰液溢，蚁殪，胰以医。易胰怡怡，贻医一夷衣。医衣夷衣，怡怡奕奕。噫！以蚁医胰，异矣！以夷衣贻夷医亦宜矣！&lt;/p&gt;&lt;p&gt;【译文】&lt;/p&gt;&lt;p&gt;易姨靠在椅子上，感到不太舒服，似乎是得了怪病，应该要看医生。医生说要用蚂蚁的胰脏来医治漪姨的病。杀了一亿苹蚂蚁之后，胰脏汁流了出来，医生就拿这一亿苹蚂蚁的胰脏液来医治漪姨的病，结果漪姨的病就这么医好了。漪姨很高兴，就送医生一套外国衣服。医生把外国衣服穿上也很高兴。哎呀！医生拿蚂蚁的胰脏来治漪姨的病，已经很奇怪了，漪姨拿外国衣服来送给医生，也很奇怪呀！&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+只能看不能读的文章。。。=======割一下=====word妈呀！千赞成就达成。。。我只是做了一点微小的收集搬运工作而已，谢谢各位小哥哥小姐姐了，比心心。。。=======再割一下===== 《季姬击鸡记》（作者不可考，全文共77字）【原文】季姬寂，集鸡，鸡即棘鸡。…
+
+<a href="/question/280522618/answer/422943135" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2018-06-21" target="_blank" href="/question/280522618/answer/422943135">编辑于 2018-07-18</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-24614491"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>99 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="2">
+<h2><a class="question_link" href="/question/281871009/answer/423118454" target="_blank" data-id="24914344" data-za-element-name="Title">
+如何看待FGO的日本英灵越出越多这一现象？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="106999772"
+data-atoken="423118454"
+data-collapsed="0"
+data-created="1529602267"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/281871009/answer/423118454">
+<meta itemprop="answer-id" content="106999772">
+<meta itemprop="answer-url-token" content="423118454">
+<a class="zg-anchor-hidden" name="answer-106999772"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>251</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">251</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$xu-feng-slowwind"
+target="_blank" href="/people/xu-feng-slowwind"
+>阿拉什</a></span><span title="fate系列问题优秀回答者（自封）" class="bio">
+fate系列问题优秀回答者（自封）
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="251">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">251</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="24914344" data-action="/answer/content" data-author-name="阿拉什" data-entry-url="/question/281871009/answer/423118454">
+
+<textarea hidden class="content">第一，谢谢抬举，说实话，无论题主是真心这么认为，还是高帽子也罢，我看到“国际化”“世界规模”这几个字还是着实好好高兴了一下的。&lt;br&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-8fa2c45c6a41e4c278b503e8d9930864_b.jpg&quot; data-rawwidth=&quot;192&quot; data-rawheight=&quot;192&quot; class=&quot;content_image&quot; width=&quot;192&quot;&gt;&lt;/figure&gt;&lt;br&gt;第二，不可否认的是，即使开设了外服，也不能说明这个游戏就“国际化”了，顶多是玩家国际化而已。&lt;br&gt;因为“开设”“外”这几个关键词，就决定了这个游戏一定先是在本土发展过后，才开始慢慢走向世界。&lt;br&gt;例如刺客信条系列，知名度高不高？玩家是不是遍布全球？&lt;br&gt;然而人家从中东背景起家，即使后来加入了阿诺、爱德华等其它地域的角色，也还是无法动摇阿泰尔，这个中东人的地位。&lt;br&gt;你看至今只能捧着一个编年史的中国玩家和连这待遇都没有的北欧玩家，说什么了吗？没有的事。&lt;br&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-debc8371754289b70e0a81f20fc32782_b.jpg&quot; data-rawwidth=&quot;192&quot; data-rawheight=&quot;192&quot; class=&quot;content_image&quot; width=&quot;192&quot;&gt;&lt;/figure&gt;&lt;br&gt;第三，fgo的背景是世界范围的——这我承认。但是你也要考虑到，TYPE--MOON也是要赚钱的。&lt;br&gt;为什么国内这么多垃圾套皮的，仅仅因为用了三国题材的游戏能活？无它，熟悉。&lt;br&gt;同理，策划也必须把fgo主要的目标群众，既日本年轻一代的需求放在首位。就像其他答主所说的那样，王者荣耀也几乎全都是中国角色，因为这就是它的受众的需求。&lt;br&gt;毕竟中国的玩家，对于中国的英灵，绝大多数往往是这不对那不对，到处挑刺，做不做都乳华，官方何必自找没趣？&lt;br&gt;反正只要强度×颜值＝氪金量，黑贞就是铁证。&lt;br&gt;&lt;figure&gt;&lt;img src=&quot;https://pic3.zhimg.com/50/v2-d3fd8afb1bbf9706d3a8f2a67b9cf030_b.jpg&quot; data-rawwidth=&quot;192&quot; data-rawheight=&quot;192&quot; class=&quot;content_image&quot; width=&quot;192&quot;&gt;&lt;/figure&gt;&lt;br&gt;第四，题主也承认“这是个日本游戏”，那么照顾一下本国，很难理解吗？&lt;br&gt;你要一个游戏，从开发到运营，从top到基层，每一个人都抛开民族立场，以完全客观的角度来做游戏——扯淡吧，又不是3A大作，人家TYPE—MOON招你惹你了被提出如此苛刻的要求？&lt;br&gt;况且型月已经算是非常克制的了。黄金三靶，没日本的份；万物起源乌鲁克，没日本的份；魔术世界三大组织，没一个落户日本的。还想怎样？&lt;br&gt;像镰池和马的《重装武器》，里边日本领土被瓜分，人民分散到世界各地，直接被灭国，可以说是有力自黑了，结果就因为动画里出现了一句“object”（某种巨型武器）最先由日本研发制造就被b站某群睿智吊起来喷。&lt;br&gt;各位也别对题主恶语相向了，和某些人比起来，他已经算友好的了_(:3」∠❀)_&lt;br&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-77d4d5284ac656ecb514c038177fc474_b.jpg&quot; data-rawwidth=&quot;192&quot; data-rawheight=&quot;192&quot; class=&quot;content_image&quot; width=&quot;192&quot;&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;第五，记住一句话：这只是游戏。&lt;br&gt;不要上纲上线，这只是游戏。&lt;br&gt;不要用政治污染它，这只是游戏。&lt;br&gt;我记得某个答主问身边的英国人，觉不觉得这不尊重历史。&lt;br&gt;那个英国人惊讶地回答道：&lt;br&gt;“可这只是游戏啊？！”&lt;br&gt;不管是中国人做的游戏，还是日本人做的游戏，有趣的东西就是有趣。&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-c0120c9aa60530b7b2cb8e4e4c81e141_b.jpg&quot; data-rawwidth=&quot;192&quot; data-rawheight=&quot;192&quot; class=&quot;content_image&quot; width=&quot;192&quot;&gt;&lt;/figure&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+第一，谢谢抬举，说实话，无论题主是真心这么认为，还是高帽子也罢，我看到“国际化”“世界规模”这几个字还是着实好好高兴了一下的。 第二，不可否认的是，即使开设了外服，也不能说明这个游戏就“国际化”了，顶多是玩家国际化而已。 因为“开设”“外”…
+
+<a href="/question/281871009/answer/423118454" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2018-06-22" target="_blank" href="/question/281871009/answer/423118454">编辑于 2018-06-24</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-24914344"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>26 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="3">
+<h2><a class="question_link" href="/question/276106060/answer/422919261" target="_blank" data-id="23632462" data-za-element-name="Title">
+易烊千玺在《这就是街舞》有圈粉吗?有没有此入坑的新粉?
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="106963488"
+data-atoken="422919261"
+data-collapsed="0"
+data-created="1529585232"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/276106060/answer/422919261">
+<meta itemprop="answer-id" content="106963488">
+<meta itemprop="answer-url-token" content="422919261">
+<a class="zg-anchor-hidden" name="answer-106963488"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>266</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">266</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$sheng-huo-47-30"
+target="_blank" href="/people/sheng-huo-47-30"
+>生活</a></span><span title="想要学习传媒的工科狗" class="bio">
+想要学习传媒的工科狗
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="266">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">266</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="23632462" data-action="/answer/content" data-author-name="生活" data-entry-url="/question/276106060/answer/422919261">
+
+<textarea hidden class="content">&lt;p&gt;在此声明一下，对于评论里的质疑，为了防止以后的人看到再有误会，我先说清楚，我对易烊千玺确实就是路转粉，我没理解错的话，路转粉的意思就是，之前是路人，后来被圈粉的吧，我好几年前就知道易烊千玺了，但一直没有感觉，因为不了解，也没想过会了解，纯路人，但今年看了《这街》，再看他的发展历程，被深深折服，这算路转粉吧！之所以说自己不算纯正粉丝，最后也给出解释了，在此不多说。&lt;/p&gt;&lt;p&gt;很多人听到易烊千玺这个名字，第一反应就是流量吧？之前我也是。很多人都只看到了现在的易烊千玺流量有多么庞大，粉丝有多疯狂的热爱，只看到了红透半边天的“流量小生”，却不知道曾经小小年纪的易烊千玺也曾被另两位队友的粉丝当着面喊出让他滚出tf，也曾因为被比较，被别人说长得丑，被人冷眼相对，冷嘲热讽。现在的他，逐渐有了棱角，眼神也更坚定，步子迈得更稳了。他也是一步一步走到粉丝面前的啊，他的粉丝也是靠自己一个个挣过来的啊！易烊千玺每次反黑和圈粉靠的从来不是粉丝，都是他自己的表现跟实力在说话。&lt;/p&gt;&lt;p&gt;原文改了一些，又加了一点新的观点，这个人真是越了解越会发现新的东西。。。&lt;/p&gt;&lt;p&gt;——————以下原答案————————*&lt;/p&gt;&lt;p&gt;我！！！&lt;/p&gt;&lt;p&gt;对四字路转粉！&lt;/p&gt;&lt;p&gt;先说背景:不追星，对娱乐圈不感冒，之前对四字只是路人，不相信所有的艺人公司文案宣传，只相信自己看到的。综艺不怎么爱看，总觉得很多都是秀，当然不排除像《国家宝藏》《诗词大会》这种良心的综艺在，电视剧也只挑良心的看。&lt;/p&gt;&lt;p&gt;这个17岁的少年真的颠覆了我对娱乐圈的看法，也改变了我对人生的一些认知，越深入了解越打我的脸！我之前对娱乐圈看法就是，一个大染缸，鱼龙混杂，谁进去都不可能干干净净出来，能混到被大多数人追捧，肯定有一定的手段。所以，早就不追星了，加上最近频频出现的娱乐圈乱象，出轨，耍大牌，诈捐，什么合同，对娱乐圈更没感觉了，甚至一度觉得追星的人都。。。知道他们爱豆私底下什么样吗就这么捧？对于听到一些哪个爱豆对粉丝很好很尊重粉丝，拍戏很努力，对身边的人很有礼貌什么的，都觉得好笑，这是他们作为艺人，作为爱豆应该做的好吗，这是最基本的，要是想靠粉丝圈钱的话，对粉丝怎么尊重都不为过，想在这个圈子里混下去，不对周边人客客气气的还想混吗？&lt;/p&gt;&lt;p&gt;很早就知道tf了，高中的时候他们好像就火的不行不行的了（我现在大三），但对他们的印象都停留在流量，颜值上，只觉得是粉丝捧的太高，也没太关注他们，就觉得都是小孩（打脸！！！）去年室友粉三小只，我还顺带排了一下名次，按颜值排，三字，两字，四字，因为当时对他们的了解还只是停留在流量上，三个人除了三字，其他两个更是傻傻分不清，也听别人说过四字多才多艺什么的，但那时还是没感觉，因为不了解也没打算了解，就觉得这小孩会的东西还挺多，但还没到喜欢的地步，多才多艺嘛，父母培养的呗。&lt;/p&gt;&lt;p&gt;来说说是怎么被打脸的！！看了他的生日会视频，每一次都精心准备给粉丝惊喜，每表演完一个节目就跑去后台换衣服准备下一场的状态，就像是你过生日，你的弟弟或妹妹来来回回的跑去自己的房间去拿他给你准备好的惊喜一样，可是过生日的是他呀，享受惊喜的却是粉丝，他是真真的爱粉丝，真真的感恩粉丝啊，就像他们对粉丝说的&quot;幸好有你们，也幸亏有你们&quot;。我这么会挑刺的人，真的感受到了他的真诚，不是把粉丝当成工具，应付粉丝，就是真真的把粉丝当成那个一路陪他走来，一路默默支持他的朋友。&lt;/p&gt;&lt;p&gt;看了《这街》，回去又搜了相关采访视频，四字真的刷新了我的三观，被他的人品跟性格圈粉。他真的是那种你越深入了解就只会越喜欢的人，人品过硬（甚至有道德洁癖），知道用实力说话，对人很有礼貌，放低姿态去认真学习，这样的人，不管是圈内圈外，很难不被人喜欢吧！就像《这街》里林梦淘汰的时候说的，他说他来这个节目发的第一条朋友圈就是感谢易烊千玺。这个世界太多年轻人活在那个不真实的世界里，他上这个节目感受到了内心和真实的东西，对，四字给我的感觉就是很踏实，很真诚，成熟稳重，谦虚又内敛，温文尔雅却又不失男儿该有的阳刚之气。&lt;/p&gt;&lt;p&gt;之前一直认为娱乐圈的人，只要能红起来的，多多少少会被同化吧，毕竟一路走来不容易，毕竟娱乐圈那么乱。但四字给我的感觉是真没有，他在《这街》第一二期因为刚开始给毛巾数量过多而重新决定battle收毛巾的做法，虽然看上去出尔反尔，很不成熟，但他认识到错误并及时纠正给出合理的解决方案，大胆的认错，大胆的改正，对于需要维护形象的艺人来说，能做到这一点，真的挺佩服的。再到后来的对投票结果不尽如意的那句&quot;我没有&quot;，到回应黄子韬有眼不识泰山的&quot;斯为泰山而不骄&quot;，这孩子的格局跟见识真的惊到我了，他是十七岁吗？他说他也没想到自己有一天会这么火，如果重来一次他可能不会走这条路，因为这样的人生他已经经历过一次了，想体验其他的人生，我特别能理解这种感受，人生只有一次，不多多经历岂不白走一遭？他能说出这样的话，我觉得他在娱乐圈里不是为了名利，可能刚开始是自己没有选择权，被推着走上来的，到现在背负着那么多人的期待，回不去了，就只能带着期待跟初心继续走下去，尽量去做自己想要做的事情。&lt;/p&gt;&lt;p&gt;他身上有很多现在年轻人没有的东西，就是勇敢的做自己，用尽全力去追逐自己想要的东西，不管别人怎么说，怎么阻止跟诋毁。又来打脸了！慢热，内向，话不多，之前这些词在我眼里可以说是贬义词，因为我自己也是这种性格的人，所以交朋友不太会喜欢这样的人，不是说这样的人不好，只是觉得两个话不多的人在一块还有的聊吗？得慢到什么时候才能热起来啊！参考亮亮跟千玺就知道了，两个慢热的人还得靠韩宇来交流，当然到后来两个人开始熟了，采访也说了，刚开始的时候真的就是，虽然懂对方，但就是不知道怎么去相处。看了他的一些采访和他的表现，我改变了之前的看法，我竟然有点喜欢内向慢热的人了！unbelievable！内向慢热的人他有一个优点就是真诚，一旦把你当自己人就会掏心掏肺的那种，他就是这样的人啊，他对待战队里的成员，每一个都是放在心尖尖上的人啊，这么一个不爱说话的人，频频对他的队员表白，很说明问题了！看他的一些表现，你会忘记他只是一个17岁的少年啊，这么低调谦逊，目标明确的知道自己真正想要的是什么，知道自己该做什么，拎得清，而真正让我敬佩的就是，他清楚的知道自己想要什么，并且一直在用行动跟实力去争取自己想要的东西，话不多，都是在用实际行动说话啊。就是我不跟你说我要做到什么什么，你看我的行动，看我的成果。。。个人觉得《长安十二时辰》会打很多人的脸。他挑的每一个综艺跟电视都是他经过自己的思考选出来的，感觉都很适合他，每一个都会让他发生质的改变。每一年都在成长，每一年都会有很大的变化！不管是能力，实力，还是人品，都比上一年的易烊千玺要高出一个档次，真真正正活出了自我，这是非常值得我学习的，也是我最欣赏跟敬佩的，他才17岁啊！&lt;/p&gt;&lt;p&gt;我觉得他这种性格除了天生自带的，还跟他的家庭环境，家庭教育，和那个在外能保护千玺，在内能照顾指导千玺的虎妈有很大的关系吧！在这种爸妈非常明智，家庭氛围又非常有爱的环境下长大的人，心里一般都是充满爱的，也是相信爱的。虎妈也是把千玺当孩子养了，他可是五十米之外只根据脚步声就能就能认出千玺的人啊！还说不会让千玺离开他的视线两米之外！哈哈哈，我非常喜欢这种相处模式，毕竟艺人跟助理是朝夕相处的人，关系一旦处理不好，对两个人都是折磨，但他俩就完全不存在这种问题，两个人更像是家人。当然我觉得也离不开粉丝的守护跟支持，一路走来，披荆斩棘，粉丝不求回报的守护着这个放在心尖上的人，也给了他很多力量吧！之前看到有人说，在四字被全网黑的时候，四字爸爸对他说，别人不把你当回事，你要把自己当回事。在他火遍大江南北的时候，四字爸爸对他说，别人越把你当回事，你越不能把自己当回事。不知道真假，但我觉得，他是真真切切的在执行这两句话，现在的他，就是收着的状态，逐渐锋芒毕露，却知道放低姿态，虚心的去学习。&lt;/p&gt;&lt;p&gt;说了这么多，感觉自己都有些语无伦次了，让我说一天也说不完。。。唯一怕的就是，会给四字招黑，因为别人看到你夸一个爱豆，夸的越多就会越反感，感觉像是你在捧杀，无脑夸，脑残粉啊，据我看到的对四字的黑点大都是因为他太红，流量太庞大，觉得这么一个小孩红的太无厘头了，觉得是粉丝捧的太过了，不是因为这个人人品不好，只是因为太红才黑。。。我想说，以上所有对四字的评价，他都担的起，他值得。如果去掉那些光环，没有那些标签，去掉有色眼镜重新审视这个人，很难不喜欢这个人的！这么一股清流，实在不忍心看到别人拿娱乐圈那一套去定义跟揣摩他。这样一个人品过硬，优秀却还保持低姿态，成熟又内敛，谦逊有礼，目标明确，行动力很强的人，在现实生活中我还没看到过。。。&lt;/p&gt;&lt;p&gt;我应该不算四字粉丝吧，最多只能算路人粉，因为我觉得粉丝应该都是各种应援，打call，支持代言，综艺电视一期不落的看，做数据，拉票。。。以上种种我都没做到，所以应该不算纯正的粉丝，对四字就是一种敬佩跟欣赏，很值得我这个活了22年的老阿姨学习。&lt;/p&gt;&lt;p&gt;话说多了。。。其实早就想夸一夸四字了，终于把我想说的话说出来了&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+在此声明一下，对于评论里的质疑，为了防止以后的人看到再有误会，我先说清楚，我对易烊千玺确实就是路转粉，我没理解错的话，路转粉的意思就是，之前是路人，后来被圈粉的吧，我好几年前就知道易烊千玺了，但一直没有感觉，因为不了解，也没想过会了解，纯…
+
+<a href="/question/276106060/answer/422919261" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2018-06-21" target="_blank" href="/question/276106060/answer/422919261">编辑于 2018-07-08</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-23632462"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>48 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="4">
+<h2><a class="question_link" href="/question/271690934/answer/422916906" target="_blank" data-id="22650669" data-za-element-name="Title">
+可不可以写一篇夸red velvet五人全员的文？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="106963068"
+data-atoken="422916906"
+data-collapsed="0"
+data-created="1529585026"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/271690934/answer/422916906">
+<meta itemprop="answer-id" content="106963068">
+<meta itemprop="answer-url-token" content="422916906">
+<a class="zg-anchor-hidden" name="answer-106963068"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>64</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">64</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$amy-23-62-59"
+target="_blank" href="/people/amy-23-62-59"
+>AMY</a></span><span title="不会写你想要的答案的人" class="bio">
+不会写你想要的答案的人
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="64">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">64</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="22650669" data-action="/answer/content" data-author-name="AMY" data-entry-url="/question/271690934/answer/422916906">
+
+<textarea hidden class="content">&lt;p&gt;&lt;/p&gt;&lt;a class=&quot;video-box&quot; href=&quot;//link.zhihu.com/?target=https%3A//www.zhihu.com/video/993204079669067776&quot; target=&quot;_blank&quot; data-video-id=&quot;&quot; data-video-playable=&quot;&quot; data-name=&quot;&quot; data-poster=&quot;https://pic1.zhimg.com/v2-069a6b9a04b507bfa1229dc019a0d0c5.jpg&quot; data-lens-id=&quot;993204079669067776&quot;&gt;              &lt;img class=&quot;thumbnail&quot; src=&quot;https://pic1.zhimg.com/v2-069a6b9a04b507bfa1229dc019a0d0c5.jpg&quot;&gt;&lt;span class=&quot;content&quot;&gt;                &lt;span class=&quot;title&quot;&gt;&lt;span class=&quot;z-ico-extern-gray&quot;&gt;&lt;/span&gt;&lt;span class=&quot;z-ico-extern-blue&quot;&gt;&lt;/span&gt;&lt;/span&gt;                &lt;span class=&quot;url&quot;&gt;&lt;span class=&quot;z-ico-video&quot;&gt;&lt;/span&gt;https://www.zhihu.com/video/993204079669067776&lt;/span&gt;              &lt;/span&gt;            &lt;/a&gt;&lt;p&gt;我爱红毛！我爱红毛！我爱红毛！&lt;/p&gt;&lt;p&gt;她们可以是带给你幸福快乐的各色头发的精灵，也是在聚光灯下柔柔地唱着抒情的淑女；她们是机器工厂造出的西洋复古娃娃，也是贵族家中能歌善舞的千金；她们是有点坏坏心思的化着浓妆的洛丽塔，也是夏日缤纷水果变成的来到世间的美景；她们是充满灵异与空灵气息的鬼宅魔女，也是持枪灭婊的嘻哈女郎。&lt;/p&gt;&lt;p&gt;日专MV一如既往带我进入红毛的氛围之中。她们精致的妆容和甜蜜的嗓音，少女气息里夹杂着一点攻击性，让女饭爱不释手，男饭两眼冒桃心。&lt;/p&gt;&lt;p&gt;日专MV一出我就知道我又要被红毛拉走了……&lt;/p&gt;&lt;p&gt;&lt;b&gt;Irene&lt;/b&gt;，在因为颜值屡次上热搜与“时代最棒的女性”评价里，受到了争议。老骥伏枥，志在千里。年龄堪比二代团的柱现没有做出过放弃的准备，高中毕业，在一群小弟弟小妹妹中练习，一字马狂人，跳舞超有味道。个子小小，却遗传了SM招牌大妈笑，是成员吃饭时会帮成员挑出鱼刺的队长，是自己因肠胃病不能吃鸡肉成员过生日想吃鸡肉便做了一大锅可口的鸡肉的队长，是成员第一次接触高跟鞋不太掌握好平衡时扶着成员对其微笑的队长，是对身边所有人都非常友好，虽然有瑕疵的女人，却是完美的女人，爱读书的女人，心理强大的女人。是无任何代言拿到四月个人品牌排行榜第一的优质爱豆，是17年盖洛普NO.4的女强人。在议论中，并不故意突显自己的她，证明有些人生来就要成为女王。&lt;/p&gt;&lt;p&gt;&lt;b&gt;Joy&lt;/b&gt;，典型的处女座女孩，富有甜蜜无辜和风情万种兼容的MS.Korean+港片风格外貌，优越的外貌之下有一颗自我，坚定，慕强的内心。胖乎乎的她，经过严格的自我管理，终于出落成大美人，人鱼姬一般的歌声和招牌的撒娇更是让男性骨骼酥软。直男斩朴秀荣，也是女饭终结者。参与演技虽然受到极大争议，却依旧愿意继续做下去，从她身上我看到了年轻偶像少有的自主性。&lt;/p&gt;&lt;p&gt;&lt;b&gt;Seulgi&lt;/b&gt;，seul=soul，富有灵魂与氛围的优越气质的爱豆。长达七年的练习生生涯，造就了涩琪极强的业务水平，唱跳俱佳，气质优越。与日韩明星眨巴眨巴的大眼睛与巴掌脸形成鲜明对比的是她圆嘟嘟的脸蛋，小小的笑起来就弯成月芽的眼睛以及“一脸熊样”。熊系少女姜涩琪，在很大的外貌争议中出道，用实力与美妙的身材和动人的嗓音，让人感到幸福与快乐。画报匠人灵魂熊精，是《太阳的后裔》里让兵哥哥疯狂的舞台甜心，是《bad boy》里帅到一片天的腰带杀手，是懂事，诚恳，勤勤恳恳的爱豆。&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wendy&lt;/b&gt;，在出道初期一头蓝发，眼睛里闪耀着来自于童话世界一般美妙的光彩，穿着美丽的礼服纵声高歌。这么一个女神的人，没想到最后沦为团里最逗比的孩子。孙胜完是不会控制表情的女人，骨子里有来自于加拿大温哥华人的风趣与开放。优越的歌唱实力和富有辨识度的个人表现力，学霸经历（受过美国总统颁发的学位证书），以及其对歌曲的自我研究和热爱，仿佛是《快乐星球》里的“老顽童爷爷”，玩起来比谁都疯，学起来比谁都深，懂的知识更让人瞠目结舌。蓝色是智慧的颜色，就像出道初期，孙胜完的定位是动物里的“鹿”，是一个让浑身充满清冷与疏离感的脑容量以及让浑身充满多动症体质的外向个性的结合的矛盾体。&lt;/p&gt;&lt;p&gt;&lt;b&gt;yeri&lt;/b&gt;，是家里飞来的草蛉，有人嫌弃其味臭，而有人觉得它是“夏日的精灵”。富有精致外貌的妹妹，小巧身材的妹妹，是眉目犀利的天使爱美丽。是朋友很多，争议很大，话题度最高的艺人。她的代表色是“紫”，是一个中性的色彩，冷色调不要暖色调不理，暧昧的，富有争议的颜色。喜欢紫色的人会成为紫色物品的狂饭，而这也是常人无法理解的一点。做人与做艺人并不相同，每次写到yeri，我都会犹豫，但是我不会觉得写了她的好会招来质疑和反对。因为我是相信妹妹的人，妹妹是把生活和工作分得清的孩子，厌恶来自于各方面的因素，但是本身更是一个相对的词语。&lt;/p&gt;&lt;p&gt;喜欢上red velvet可能是偶然，但是认可她们是必然。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我爱红毛！我爱红毛！我爱红毛！她们可以是带给你幸福快乐的各色头发的精灵，也是在聚光灯下柔柔地唱着抒情的淑女；她们是机器工厂造出的西洋复古娃娃，也是贵族家中能歌善舞的千金；她们是有点坏坏心思的化着浓妆的洛丽塔，也是夏日缤纷水果变成的来到世间…
+
+<a href="/question/271690934/answer/422916906" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/271690934/answer/422916906">发布于 2018-06-21</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-22650669"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div><div class="explore-feed feed-item" data-offset="5">
+<h2><a class="question_link" href="/question/263396062/answer/422935603" target="_blank" data-id="19788641" data-za-element-name="Title">
+华晨宇对粉丝很好吗？
+</a></h2>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="106966538"
+data-atoken="422935603"
+data-collapsed="0"
+data-created="1529586687"
+data-deleted="0"
+data-isowner="0"
+data-helpful="True"
+data-copyable="1"
+data-zop
+>
+<link itemprop="url" href="/question/263396062/answer/422935603">
+<meta itemprop="answer-id" content="106966538">
+<meta itemprop="answer-url-token" content="422935603">
+<a class="zg-anchor-hidden" name="answer-106966538"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>293</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">293</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$noirechatte"
+target="_blank" href="/people/noirechatte"
+>noirechatte</a></span><span title="文科女/法语/动漫宅" class="bio">
+文科女/法语/动漫宅
+</span>
+</span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="293">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">293</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="19788641" data-action="/answer/content" data-author-name="noirechatte" data-entry-url="/question/263396062/answer/422935603">
+
+<textarea hidden class="content">&lt;p&gt;题主的问题描述有个逻辑上的问题。一个明星的粉丝黏着度高可能由两个原因造成，一是明星本人实力强，魅力大，二才是宠粉。&lt;/p&gt;&lt;p&gt;很不巧，华晨宇这两点都占了。&lt;/p&gt;&lt;p&gt;关于他的实力和个人魅力可以参考其他相关问题，我也写过一些回答分析他吸引我的原因，这里就不展开了。&lt;/p&gt;&lt;p&gt;一句话概括，他是一个强大而美好的人。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;接下来回答题主的问题。&lt;/p&gt;&lt;p&gt;华晨宇对歌迷很好吗？（我不想讨论粉丝的问题，因为这个群体太杂）&lt;/p&gt;&lt;p&gt;其实很多回答都已经说了很多了，他对歌迷的好，只要不是瞎子都能看到。鉴于之前的答主们已经列举了许多，我就不一一重复了。&lt;/p&gt;&lt;p&gt;只说两个小细节吧。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;14年末的爱奇艺尖叫之夜颁奖。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic1.zhimg.com/50/v2-7ad841c501fdf42058bee63327bfbf3d_b.jpg&quot; data-rawwidth=&quot;794&quot; data-rawheight=&quot;640&quot; data-size=&quot;normal&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;794&quot; data-original=&quot;https://pic1.zhimg.com/50/v2-7ad841c501fdf42058bee63327bfbf3d_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;相信很多人都吐槽过这个条形码发型。&lt;/p&gt;&lt;p&gt;我一开始也觉得吃藕，后来听有的歌迷说是因为上一个节目为了造型，脸上弄了倒模，结果严重过敏，条形码刘海是为了遮住发红的眼睛。&lt;/p&gt;&lt;p&gt;我不知道是不是真的，因为我看不清他的眼睛，我只能看到没遮住的下半张脸，尽管上了妆，那些凹凸不平的过敏痕迹依然清晰可见。&lt;/p&gt;&lt;p&gt;然后我看到他站在台上，笑着对他的歌迷说：&lt;/p&gt;&lt;blockquote&gt;我知道你们可能不在意我拿了多少个奖，也不在意我在这个圈子里有多么火，所以我今天想对你们说，&lt;b&gt;我今天身体很好，心情很好，所以请你们照顾好自己。&lt;/b&gt;&lt;/blockquote&gt;&lt;p&gt;后来媒体采访问及他的发型，他说，因为觉得很适合今晚唱的歌。&lt;/p&gt;&lt;p&gt;我也不知道是真的因为歌曲还是别的原因。反正他总是这样，很多事就这样被他轻描淡写地带过。&lt;/p&gt;&lt;p&gt;就像有一次在节目后台，他边往台前走边对着一旁的跟拍摄像露出了标志性的笑容，眉眼弯弯，笑成了一双好看的月牙。他说要把节目剪的开心一点，免得歌迷担心。后来回到后台，他悄悄问摄像大哥他的脸肿不肿。摄像问他怎么了，他说前一天晚上吐了。工作人员追问原因，他只是笑笑说，可能是没睡饱吧。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-f451a2b25a17904bb0bdd36fd47a0941_b.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;749&quot; data-size=&quot;normal&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;440&quot; data-original=&quot;https://pic4.zhimg.com/50/v2-f451a2b25a17904bb0bdd36fd47a0941_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;你有过这样的心情吗？当你很在乎很在乎一个人的时候，你甚至不想让他看到你不舒服不开心的样子。你只想把快乐分享给他，难过和委屈都藏在心里。这是你保护他的方式。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;所以他见到歌迷总是笑着的。所以他不说那些黏黏糊糊的空洞情话，只是说，我很好，你们也要照顾好自己。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2017年末，同一个颁奖典礼。&lt;/p&gt;&lt;p&gt;这一次，他的造型很好看，状态似乎也不错。但好像穿少了，有点冷。&lt;/p&gt;&lt;p&gt;他管工作人员要了一杯热水，然后就一直用手捧着杯子，一边捂手，一边小口小口地啜饮。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic4.zhimg.com/50/v2-5386c06a2cc673eea4b00a4576481794_b.jpg&quot; data-rawwidth=&quot;359&quot; data-rawheight=&quot;997&quot; data-size=&quot;normal&quot; class=&quot;content_image&quot; width=&quot;359&quot;&gt;&lt;/figure&gt;&lt;p&gt;过了好久，终于轮到他领奖。他飞快地感谢完主办方，直接跳过了感谢公司，然后对他的歌迷说：&lt;/p&gt;&lt;blockquote&gt;天气冷了，你们记得多穿点衣服。&lt;/blockquote&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;像不像每年刚刚入冬的时候，总有很关心你的长辈开始在你耳边絮絮叨叨：天冷啦，多穿点儿，别冻着！&lt;/p&gt;&lt;p&gt;其实他们也不知道你到底冷不冷，他们只是自己觉得冷了，然后就惦记起你来了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;这就是华晨宇和他的歌迷相处的方式。他们用“家人”来定义彼此的关系，因为心里总揣着一份惦念。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;他会在演唱会上对歌迷们说，欢迎回家。&lt;/p&gt;&lt;p&gt;他会跑到微博上看他们都在做什么，他说他们总是很热闹，看到他们就很开心。&lt;/p&gt;&lt;p&gt;他每次领奖的时候都不忘嘱咐歌迷们照顾好自己。&lt;/p&gt;&lt;p&gt;当歌迷嘱咐他的时候，尽管十有八九都是“多吃点”，他依然每次都听的很认真。&lt;/p&gt;&lt;p&gt;就像每次演唱会接近尾声的时候，他都会绕着舞台一边走一边仔细地看着观众席，仿佛要把每一张脸都刻在心里。&lt;/p&gt;&lt;p&gt;他管他的歌迷叫我的人。他对他们说，谢谢你们，我的国王。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;于是，&lt;/p&gt;&lt;p&gt;有一种冷，叫你大哥觉得你冷。&lt;/p&gt;&lt;p&gt;有一种瘦，叫你的人觉得你瘦。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;因为他们是一家人。&lt;/p&gt;&lt;p&gt;他们会互相嘘寒问暖，他们要一辈子相亲相爱。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;好不好，你说呢。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;— — — — — —  6.23更新— — — — — —&lt;/p&gt;&lt;p&gt;白打那么多字了，一张图说明一切。&lt;/p&gt;&lt;figure&gt;&lt;img src=&quot;https://pic2.zhimg.com/50/v2-3911be19e87979daeeaab3b23f8499e9_b.jpg&quot; data-rawwidth=&quot;440&quot; data-rawheight=&quot;1823&quot; data-size=&quot;normal&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;440&quot; data-original=&quot;https://pic2.zhimg.com/50/v2-3911be19e87979daeeaab3b23f8499e9_r.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;一起回家吧。&lt;/p&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/50/v2-7ad841c501fdf42058bee63327bfbf3d_200x112.jpg" data-rawwidth="794" data-rawheight="640" data-size="normal" data-watermark="original" data-original-src="v2-7ad841c501fdf42058bee63327bfbf3d" data-watermark-src="v2-bc885d2fc77b270db3f5cccdaed7d23a" data-private-watermark-src="v2-193da869fb6f3cd6f4c11b6301ce4867" data-tags="politic" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/50/v2-7ad841c501fdf42058bee63327bfbf3d_r.jpg">
+题主的问题描述有个逻辑上的问题。一个明星的粉丝黏着度高可能由两个原因造成，一是明星本人实力强，魅力大，二才是宠粉。很不巧，华晨宇这两点都占了。关于他的实力和个人魅力可以参考其他相关问题，我也写过一些回答分析他吸引我的原因，这里就不展开了。…
+
+<a href="/question/263396062/answer/422935603" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2018-06-21" target="_blank" href="/question/263396062/answer/422935603">编辑于 2018-06-23</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-19788641"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>39 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar" data-za-module="RightSideBar">
+
+<!-- <div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm" data-za-module="SignUpForm">
+<form action="/register/email" method="POST">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号" data-placeholder="手机号" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 8 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tooltip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login" data-za-module="SignInForm">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tooltip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> -->
+<div class="zm-side-section">
+<div class="DownloadApp">
+<button class="DownloadApp-button">
+<span class="sprite-global-icon-qrcode"></span>
+下载知乎 App
+</button>
+</div>
+</div>
+
+
+<div class="shameimaru-placeholder" data-loc="explore_up" data-params='{}'></div>
+
+<div class="zm-side-section explore-side-section explore-side-section-roundtable">
+<div class="zm-side-section-inner">
+<div class="section-title">
+<a href="/roundtable" class="zg-link-gray zg-right" data-za-c="view_roundtable" data-za-a="visit_roundtable_home" data-za-l="explore_sidebar_trending_roundtable_more">更多圆桌 &raquo;</a>
+<h3>热门圆桌</h3>
+</div>
+<ul class="list hot-roundtables">
+
+<li class="clearfix">
+<a target="_blank" class="avatar-link" href="/roundtable/fenkai"><img src="https://pic3.zhimg.com/v2-25b83f019cc4e44d0ad1858d6ef2338c_m.jpg" alt="Path" class="avatar 40" /></a>
+<div class="content">
+
+<a href="/roundtable/fenkai" target="_blank" data-hovercard="r$t$fenkai">「分开」这件小事</a>
+<div class="meta">
+<span>4529 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>34 个问题</span>
+</div>
+</div>
+</li>
+
+<li class="clearfix">
+<a target="_blank" class="avatar-link" href="/roundtable/qiaoshengyiyu"><img src="https://pic2.zhimg.com/v2-77ee1b2a446ff3427e82a4cfa93b3d0d_m.jpg" alt="Path" class="avatar 40" /></a>
+<div class="content">
+
+<a href="/roundtable/qiaoshengyiyu" target="_blank" data-hovercard="r$t$qiaoshengyiyu">悄声抑郁</a>
+<div class="meta">
+<span>9506 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>23 个问题</span>
+</div>
+</div>
+</li>
+
+</ul>
+</div>
+</div>
+<div class="zm-side-section explore-side-section">
+<div class="zm-side-section-inner">
+<div class="section-title">
+
+<a href="/topics" class="zg-link-gray zg-right">更多话题 &raquo;</a>
+
+<h3>热门话题</h3>
+</div>
+<ul class="list hot-topics">
+
+<li class="clearfix">
+<a target="_blank" class="avatar-link" href="/topic/19588303" data-hovercard="t$b$19588303"><img src="https://pic4.zhimg.com/ebec2d3ac_m.jpg" alt="节气" class="avatar 40" /></a>
+<div class="content">
+<a href="/topic/19588303" target="_blank" data-hovercard="t$b$19588303">节气</a>
+<div class="meta">
+<span>3832 人关注</span>
+
+</div>
+</div>
+<div class="bottom">
+
+</div>
+</li>
+
+<li class="clearfix">
+<a target="_blank" class="avatar-link" href="/topic/20076653" data-hovercard="t$b$20076653"><img src="https://pic4.zhimg.com/v2-c33e30071dc81061523af41056c2aa8e_m.jpg" alt="2018 年俄罗斯世界杯" class="avatar 40" /></a>
+<div class="content">
+<a href="/topic/20076653" target="_blank" data-hovercard="t$b$20076653">2018 年俄罗斯世界杯</a>
+<div class="meta">
+<span>163362 人关注</span>
+
+</div>
+</div>
+<div class="bottom">
+
+<a class="question_link" href="/question/285841921" target="_blank" data-id="25797750" data-za-element-name="Title">
+如何评价中消协喊话华帝，称「法国夺冠退全款的创意挺赞，望履行承诺」？
+</a>
+
+</div>
+</li>
+
+<li class="clearfix">
+<a target="_blank" class="avatar-link" href="/topic/19605143" data-hovercard="t$b$19605143"><img src="https://pic3.zhimg.com/f42569491_m.jpg" alt="端午节" class="avatar 40" /></a>
+<div class="content">
+<a href="/topic/19605143" target="_blank" data-hovercard="t$b$19605143">端午节</a>
+<div class="meta">
+<span>6849 人关注</span>
+
+</div>
+</div>
+<div class="bottom">
+
+</div>
+</li>
+
+</ul>
+</div>
+</div>
+<div class="zm-side-section explore-side-section">
+<div class="zm-side-section-inner">
+<div class="section-title">
+<a href="javascript:;" id="js-hot-fav-switch" class="zg-link-gray zg-right" data-za-c="collection" data-za-a="click_trending_collections_change" data-za-l="explore_sidebar_trending_collections_collection_name">换一换</a>
+<h3>热门收藏</h3>
+</div>
+<ul class="list hot-favlists">
+<li>
+<div class="content">
+<a href="/collection/20153420" target="_blank">游戏设计</a>
+<div class="meta">
+<span>135 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>4165 条内容</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/20439793" target="_blank">每天多学一点，生活会更丰富些</a>
+<div class="meta">
+<span>13187 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>435 条内容</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/76789371" target="_blank">✘</a>
+<div class="meta">
+<span>8 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>134 条内容</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/45980170" target="_blank">我的收藏</a>
+<div class="meta">
+<span>171 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>555 条内容</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/117961607" target="_blank">当代社会</a>
+<div class="meta">
+<span>32 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>614 条内容</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-loc="explore_down" data-params='{}'></div>
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/jubao" target="_blank">举报投诉</a></li>
+<li><a href="/terms/privacy" target="_blank">隐私政策</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2018 知乎</span>
+
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/template" class="unblock-dialog-template">
+<div>
+你的帐号由于存在异常⾏为暂时被限制使⽤。如需恢复，请
+<a target="_blank" href="/account/unblock">解封帐号</a>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="front_web_config">{"realname_win_config":{"timestamp":1501344000,"tip":"\u5e94\u56fd\u5bb6\u6cd5\u89c4\u5bf9\u4e8e\u5e10\u53f7\u5b9e\u540d\u7684\u8981\u6c42\uff0c\u8fdb\u884c\u4e0b\u4e00\u6b65\u64cd\u4f5c\u524d\uff0c\u9700\u8981\u5148\u5b8c\u6210\u624b\u673a\u7ed1\u5b9a\u3002","continue":0,"continue_time":3600,"skip_ut_verification":0}}</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,{"message":"\u60a8\u7684\u5e10\u53f7\u7531\u4e8e\u5b58\u5728\u5f02\u5e38\u884c\u4e3a\u6682\u65f6\u88ab\u77e5\u4e4e\u53cd\u4f5c\u5f0a\u7cfb\u7edf\u9650\u5236\u4f7f\u7528","by_antispam":true},false]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1532071611000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Copyright":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Copyright.38855dcd.js","PayUIApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/PayUIApp.45d4fa11.js","CouponApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CouponApp.26054a5a.js","PaymentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/PaymentApp.ce2dee81.js","Community":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.215d7dfc.js","Report":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.a95e7362.js","OrgOpHelp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/OrgOpHelp.ec22f4a3.js","common":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.994fd1b5.js","BalanceApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/BalanceApp.b35631e4.js","AnswerWarrant":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/AnswerWarrant.3f27fc82.js","CommentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.3e811ae9.js"}</script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/vendor.cb14a042.js"></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/base.05b6d7f6.js"></script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/common.aa5ad897.js"></script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/richtexteditor.c31820a9.js" async></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/page-main.df1f06a2.js"></script>
+<meta name="entry" content="ZH.entryExplore" data-module-id="page-main">
+
+<script type="text/zscript" znonce="e65b4c1eb8514f149871e0e5c55034a4"></script>
+
+<input type="hidden" name="_xsrf" value="c33e67e39264a7294a4cd54bfdba58d9"/>
+</body>
+</html>

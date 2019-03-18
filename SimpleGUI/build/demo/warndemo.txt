@@ -1,0 +1,23 @@
+missing module named resource - imported by posix, D:\python\SimpleGUI\demo.py
+missing module named posix - imported by os, D:\python\SimpleGUI\demo.py
+missing module named _posixsubprocess - imported by subprocess, D:\python\SimpleGUI\demo.py
+missing module named readline - imported by cmd, code, pdb, D:\python\SimpleGUI\demo.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\python\SimpleGUI\demo.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\python\SimpleGUI\demo.py
+missing module named _winreg - imported by platform, D:\python\SimpleGUI\demo.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\python\SimpleGUI\demo.py
+missing module named 'java.lang' - imported by platform, D:\python\SimpleGUI\demo.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\python\SimpleGUI\demo.py
+missing module named termios - imported by tty, D:\python\SimpleGUI\demo.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\python\SimpleGUI\demo.py
+missing module named _dummy_threading - imported by dummy_threading, D:\python\SimpleGUI\demo.py
+missing module named org - imported by copy, D:\python\SimpleGUI\demo.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\python\SimpleGUI\demo.py, netrc, getpass
+missing module named 'org.python' - imported by pickle, D:\python\SimpleGUI\demo.py, xml.sax
+missing module named ScrolledText - imported by PySimpleGUI.PySimpleGUI
+missing module named tkFont - imported by PySimpleGUI.PySimpleGUI
+missing module named tkColorChooser - imported by PySimpleGUI.PySimpleGUI
+missing module named ttk - imported by PySimpleGUI.PySimpleGUI
+missing module named tkFileDialog - imported by PySimpleGUI.PySimpleGUI
+missing module named Tkinter - imported by PySimpleGUI.PySimpleGUI
